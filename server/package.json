@@ -20,7 +20,7 @@
     "path-to-regexp": "^8.2.0",
     "query-string": "^6.8.1",
     "rss-parser": "^3.4.3",
-    "shelljs": "^0.8.5",
+    "shelljs": "^0.10.0",
     "simple-git": "^3.17.0",
     "underscore": "^1.9.1"
   },
