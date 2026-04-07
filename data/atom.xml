@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-03T16:26:55.040Z</updated>
+    <updated>2026-04-07T07:03:44.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【早说】不用IDE，只用计划文件和语音：所知道的Claude Code全部技巧]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278878&amp;idx=1&amp;sn=6c046dd000e27096fef7277b4f7ab421&amp;chksm=bc764d3f8901646b987291836b932b1ed972a9edad2fbafa85ecf1c766053056dca59c63adf5&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278878&amp;idx=1&amp;sn=6c046dd000e27096fef7277b4f7ab421&amp;chksm=bc764d3f8901646b987291836b932b1ed972a9edad2fbafa85ecf1c766053056dca59c63adf5&amp;scene=0#rd"/>
+        <updated>2026-04-07T00:00:00.000Z</updated>
+        <published>2026-04-07T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[刚刚，Cursor 3.0 发布！编辑器没了，变成了 Agent 指挥部]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523156&amp;idx=1&amp;sn=13c401936934f668f2bd9c8c4fdd6024&amp;chksm=e80fd41adf785d0cb06cb551a5c734f8c4f5303c950327706f877b3157571f0272e41b659460#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278796&amp;idx=1&amp;sn=ae74d4204ea67ce9a7f9a44df91ec00c&amp;chksm=bc234bff6ad75f48aea9ff5c2aebd0b9b9c0bb755c7bdfc327341ede689ebdb29aa1ffe7d9d7&amp;scene=0#rd"/>
         <updated>2026-03-23T00:00:00.000Z</updated>
         <published>2026-03-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agentic AI 从入门到落地，精华整理全在这了！]]></title>
-        <id>http://mp.weixin.qq.com/s/pKEfNUiqyYmbHeaPLUkvbQ</id>
-        <link href="http://mp.weixin.qq.com/s/pKEfNUiqyYmbHeaPLUkvbQ"/>
-        <updated>2026-03-22T00:00:00.000Z</updated>
-        <published>2026-03-22T00:00:00.000Z</published>
     </entry>
 </feed>

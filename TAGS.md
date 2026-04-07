@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-04 00:27:56。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-07 15:04:05。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -40,6 +40,7 @@
 
 
 
+- [【前端早读课】【早说】不用IDE，只用计划文件和语音：所知道的Claude-Code全部技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278878&idx=1&sn=6c046dd000e27096fef7277b4f7ab421&chksm=bc764d3f8901646b987291836b932b1ed972a9edad2fbafa85ecf1c766053056dca59c63adf5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=76ab154e44351372af7a4789471435f6)
 - [【Nodejs技术栈】刚刚，Cursor-3.0-发布！编辑器没了，变成了-Agent-指挥部](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523156&idx=1&sn=13c401936934f668f2bd9c8c4fdd6024&chksm=e80fd41adf785d0cb06cb551a5c734f8c4f5303c950327706f877b3157571f0272e41b659460#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d139e544d2f29bcdacbd3f92b687ca12)
 - [【阮一峰的网络日志】科技爱好者周刊（第-391-期）：AI-的贫富分化](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d84ac0a58d1188959ec6e9608c9b063)
 - [【淘系前端团队】淘宝跨端体验优化-AI-演进之路](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543161&idx=1&sn=203f52399657de9f0c1d8eced67d9cab&chksm=8390dc21b4e755379d46e4ed6d670ec4c0a5243dad60a4d1f9ed2950d918804a9e3ba5b491f6#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8cb07e172464c706363d4f3db943a7e0)
@@ -49,7 +50,6 @@
 - [【Nodejs技术栈】504块咖啡钱，和一个价值千万的-AI-梦](http://mp.weixin.qq.com/s/9mKWwG8pg1Pn447ETZTfZw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b0837207e4fe100e308eea3c68d1f49a)
 - [【淘系前端团队】淘宝营销会场智能测试平台的AI落地实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543144&idx=1&sn=721c1a6266e58ecc7d383e368a04bebd&chksm=8390dc30b4e755269829f70d5ea10ea7281c2b27b5b34cde97c6560b11a7b6f96a82599eee60#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8bebb64e26b7f9fa38e89f0f97c6d4db)
 - [【程序员成长指北】LangGraph：基于图的-AI-Agent-编排框架深度解析](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529639&idx=1&sn=325db2a072d5d2f17c7d84734ca0683a&chksm=f9927276cee5fb60652b3ddc219a4b464b07ab5c86df4eb4486fce3b6a47e8fd6b57dd8a4469#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=27b84778555eecfdf7f5fbfca2c4730e)
-- [【Nodejs技术栈】干不过就加入！OpenAI-把-Codex-搞成插件塞进了-Claude-Code](http://mp.weixin.qq.com/s/w-5jGIW9r-i4DZsZ7687Iw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f3f7bb0ef7353c9e91180508b4bfb0b3)
 - [查看更多 >](/details/tags/ai.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,6 +584,7 @@
 
 
 
+- [【前端早读课】【早说】不用IDE，只用计划文件和语音：所知道的Claude-Code全部技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278878&idx=1&sn=6c046dd000e27096fef7277b4f7ab421&chksm=bc764d3f8901646b987291836b932b1ed972a9edad2fbafa85ecf1c766053056dca59c63adf5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=76ab154e44351372af7a4789471435f6)
 - [【Nodejs技术栈】刚刚，Cursor-3.0-发布！编辑器没了，变成了-Agent-指挥部](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523156&idx=1&sn=13c401936934f668f2bd9c8c4fdd6024&chksm=e80fd41adf785d0cb06cb551a5c734f8c4f5303c950327706f877b3157571f0272e41b659460#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d139e544d2f29bcdacbd3f92b687ca12)
 - [【阮一峰的网络日志】科技爱好者周刊（第-391-期）：AI-的贫富分化](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d84ac0a58d1188959ec6e9608c9b063)
 - [【淘系前端团队】淘宝跨端体验优化-AI-演进之路](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543161&idx=1&sn=203f52399657de9f0c1d8eced67d9cab&chksm=8390dc21b4e755379d46e4ed6d670ec4c0a5243dad60a4d1f9ed2950d918804a9e3ba5b491f6#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8cb07e172464c706363d4f3db943a7e0)
@@ -593,7 +594,6 @@
 - [【前端早读课】【早说】AI指数级进化时代的产品管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278860&idx=1&sn=54fc7b48572bb519431e0f10a96445c9&chksm=bcb6d6dbe3d7fe42cd6a8ffb84b072ab7ce5b5787129441ac8e8f430178090eed732c782546d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f893f77eeda4a1b71e0dc2c0c0f133a6)
 - [【Node-Weekly】Node.js-25.9-brings---max-heap-size-and-better,-iterable-streams](https://nodeweekly.com/issues/618)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a0092eef8f955b266308b261ede471c7)
 - [【Nodejs技术栈】504块咖啡钱，和一个价值千万的-AI-梦](http://mp.weixin.qq.com/s/9mKWwG8pg1Pn447ETZTfZw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b0837207e4fe100e308eea3c68d1f49a)
-- [【淘系前端团队】淘宝营销会场智能测试平台的AI落地实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543144&idx=1&sn=721c1a6266e58ecc7d383e368a04bebd&chksm=8390dc30b4e755269829f70d5ea10ea7281c2b27b5b34cde97c6560b11a7b6f96a82599eee60#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8bebb64e26b7f9fa38e89f0f97c6d4db)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
