@@ -14,14 +14,14 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-04-07 15:04:05，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-07 16:51:56，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
-- [前端大全](#前端大全)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](/assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -31,7 +31,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -87,7 +87,7 @@
 </summary>
 
 
-- [2026-04-07-【早说】不用IDE，只用计划文件和语音：所知道的Claude-Code全部技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278878&idx=1&sn=6c046dd000e27096fef7277b4f7ab421&chksm=bc764d3f8901646b987291836b932b1ed972a9edad2fbafa85ecf1c766053056dca59c63adf5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=76ab154e44351372af7a4789471435f6)  ![](/assets/new.png) 
+- [2026-04-07-【早说】不用IDE，只用计划文件和语音：所知道的Claude-Code全部技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278878&idx=1&sn=6c046dd000e27096fef7277b4f7ab421&chksm=bc764d3f8901646b987291836b932b1ed972a9edad2fbafa85ecf1c766053056dca59c63adf5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=76ab154e44351372af7a4789471435f6)  
 - [2026-04-03-【早说】Ghostty创始人的AI之旅](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278865&idx=1&sn=72b0e18b749cbe4817d6f7b96c6ea7ed&chksm=bc0ba13f35cf0cd8f410ef892d3490d0c93ca1c3c35d2469057a5c6b627953e4a637451bd6f5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a293f09b5b10f96424be936e261e049a)  
 - [2026-04-02-【早说】AI指数级进化时代的产品管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278860&idx=1&sn=54fc7b48572bb519431e0f10a96445c9&chksm=bcb6d6dbe3d7fe42cd6a8ffb84b072ab7ce5b5787129441ac8e8f430178090eed732c782546d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f893f77eeda4a1b71e0dc2c0c0f133a6)  
 - [2026-04-01-【第3679期】Worker-线程拯救-Node.js-心跳：Inngest-Connect-架构演进](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278851&idx=1&sn=345f03042da9e8e147067ba61f53d100&chksm=bcc60dfe4387d045b658feb6d099daafe18623fc66183e42aa721ad37cfa667b479c1b68a077&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=eac84651b97ef33fa50224a1f98a61e3)  
@@ -108,16 +108,16 @@
 </summary>
 
 
+- [2026-04-07-前任、老板、同事…全部token化！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624343&idx=1&sn=1f6aa3aaeda39cbc02921f2043643a2e&chksm=80224456b755cd40ad627eb1bac65c569efe9853bd02e7846748b807f733b88b001e525521df#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b1a002350ee2d91f8e23ed8d54c4533c)  ![](/assets/new.png) 
+- [2026-04-06-Cursor-3-发布：IDE-不重要了，智能体控制台上位，VS-Code-这一套开始失效](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624335&idx=1&sn=2e582e6aab952823b7e65eb8b0a6288e&chksm=8022444eb755cd58d67ce869725d6a4d8857bcfa6444500edad814c269335c25880e6226f9e9#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=59f74ba9bd24488fb0e011e1f61005cc)  ![](/assets/new.png) 
 - [2026-04-01-紧急预警：Axios-供应链被投毒（附排查与紧急补救指南）](http://mp.weixin.qq.com/s/5clC4GUlYIkzDhd_ROVcpw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b7cd5137bbc85a4fc44d24079287f289)  
-- [2026-03-31-Claude-Code-意外泄露-51.2万行-TS-核心代码](http://mp.weixin.qq.com/s/fX7ux-Ob1vM4KroYl4a7DA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1fa5240fac911e4f9fa05daff20c5b30)  
-- [2026-03-31-前端圈沸腾！Claude造出15KB引擎，渲染狂飙1200倍：文字里能跑马里奥](http://mp.weixin.qq.com/s/vlhTJXe8JiHD7si24Kwszw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d2b16fc47e976a71a3705cdb4cbf7885)  
 - [2026-03-31-Node.js核心成员请愿：项目里应禁止AI辅助开发](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624290&idx=1&sn=666bae099de90637678d7f9bf9774341&chksm=802244a3b755cdb5ee6d01f08e7d8ff082b8a7fdf5cc4e5eb902c29b0d448474d415767e3b83#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=22a373d7671fb10e7a9990190a93f260)  
+- [2026-03-31-前端圈沸腾！Claude造出15KB引擎，渲染狂飙1200倍：文字里能跑马里奥](http://mp.weixin.qq.com/s/vlhTJXe8JiHD7si24Kwszw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d2b16fc47e976a71a3705cdb4cbf7885)  
+- [2026-03-31-Claude-Code-意外泄露-51.2万行-TS-核心代码](http://mp.weixin.qq.com/s/fX7ux-Ob1vM4KroYl4a7DA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1fa5240fac911e4f9fa05daff20c5b30)  
 - [2026-03-30-OpenClaw-3.28上线！4天爆更上百项重要更新](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624284&idx=1&sn=b9fefd90b5c387d6b3318fe428938918&chksm=8022449db755cd8bb0e0b411950d7c952651614c98126a22035adf2c82c151005cf03fdc55e5#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4ec6b64bb895ef0e50b336572af01f2b)  
 - [2026-03-29-第一批“首席龙虾官”，月薪6万](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624278&idx=1&sn=1b9254fa6fd15be1ff73a54f356919a1&chksm=80224497b755cd819fac891e4523d4bd3d804190b413ffb226f99ee9f7166d8d20588a2327ea#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1ff53364e1456931b9d0eaaffb6fdbaf)  
 - [2026-03-26-别搞混了！MCP-和-Agent-Skill-到底有什么区别？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624270&idx=1&sn=5ea044378804aac90c99a512f0841ced&chksm=8022448fb755cd99287d93c79da36f31423d24435ff43c54b7227af4a95586aaa661fadd3d36#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2a59a0c17b5ab748744700b1dc34884e)  
 - [2026-03-24-AI-已能写-80%-代码，但-Agent-也有致命短板！](http://mp.weixin.qq.com/s/xuD2qJqTuqygrgzm8SE57A)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2fac7d91d3aaa43b49ad19eb1fc8facb)  
-- [2026-03-21-王自如招-01-号“全栈前端工程师”，没说薪资要求还多，堪比“人形项目组”。有人看完窒息，也有吐槽“没几百万年薪谁去啊”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624234&idx=1&sn=f0b4f74be6c4fc533de871efe49b2239&chksm=802244ebb755cdfdee002530148d03da78d812f2b3218593957b499d5ed04e9c382a370e120a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=dedc5fd22f10abeaffdc9ef2120b7970)  
-- [2026-03-18-黄仁勋：龙虾就是新操作系统！](http://mp.weixin.qq.com/s/jmxV8-3Kf5j4Ptl5roYMug)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=844fddfdcf4b15ea20a81423e137d57d)  
 - [查看更多 >](/details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -318,6 +318,7 @@
 </summary>
 
 
+- [2026-04-07-CSS六边形头像的实现与蜂巢布局](https://www.zhangxinxu.com/wordpress/2026/04/css-pyramidal-grid/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2d8c3aaf3f424b639a6bbbf6c48cff1c)  ![](/assets/new.png) 
 - [2026-03-30-CSS-corner-shape与背景底纹技术](https://www.zhangxinxu.com/wordpress/2026/03/css-corner-shape-background-pattern/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1e8e5062081b938e9e4df67bf38cc395)  
 - [2026-03-17-浅学WebTransport-API：下一代Web双向通信技术](https://www.zhangxinxu.com/wordpress/2026/03/webtransport-api/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a5d45f581f6b0f5577946686c52eb8c3)  
 - [2026-03-09-HTML-dialog元素新支持了closedBy属性](https://www.zhangxinxu.com/wordpress/2026/03/html-dialog-closedby/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9f9bb84eeb91885069a4c7e57a58b7cc)  
@@ -327,7 +328,6 @@
 - [2026-02-06-CSS-text-box属性又是干嘛用的？](https://www.zhangxinxu.com/wordpress/2026/02/css-text-box/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=10034adbb21fc099e6c8e73efcf6be15)  
 - [2026-01-30-告别insertBefore，使用moveBefore移动DOM元素](https://www.zhangxinxu.com/wordpress/2026/01/insertbefore-movebefore-dom/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=03ec37e24f1ef7cb060bbedd69b6b39a)  
 - [2026-01-22-Promise.try和Promise.withResolvers作用速览](https://www.zhangxinxu.com/wordpress/2026/01/promise-try-withresolvers/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=075d29e0b1067a2d6e38cdc48862924f)  
-- [2026-01-19-CSS-text-decoration-inset属性首发简介](https://www.zhangxinxu.com/wordpress/2026/01/css-text-decoration-inset/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ca0f23412fec2060ad6ef026c9ac4a2d)  
 - [查看更多 >](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
