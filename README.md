@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-04-08 02:45:29，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-08 12:27:01，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
@@ -35,7 +35,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
-- [Nodejs技术栈](#nodejs技术栈)![](/assets/dot.png)   
+- [Nodejs技术栈](#nodejs技术栈)  
 
 ## 文章链接
 
@@ -87,6 +87,7 @@
 </summary>
 
 
+- [2026-04-08-【第3680期】包容性暗色模式：为所有用户打造无障碍的深色主题](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278888&idx=1&sn=ac784db94bd203f501429cb0e7e81ecf&chksm=bcfe334e5ff8ea5f66bba3a8152a2e734a7cde4226c3ef0c477cb867ae18ad03dcd6ae11f4bf&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=bbc893e3c14d51549f5e0951fa983649)  ![](/assets/new.png) 
 - [2026-04-07-【早说】不用IDE，只用计划文件和语音：所知道的Claude-Code全部技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278878&idx=1&sn=6c046dd000e27096fef7277b4f7ab421&chksm=bc764d3f8901646b987291836b932b1ed972a9edad2fbafa85ecf1c766053056dca59c63adf5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=76ab154e44351372af7a4789471435f6)  
 - [2026-04-03-【早说】Ghostty创始人的AI之旅](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278865&idx=1&sn=72b0e18b749cbe4817d6f7b96c6ea7ed&chksm=bc0ba13f35cf0cd8f410ef892d3490d0c93ca1c3c35d2469057a5c6b627953e4a637451bd6f5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a293f09b5b10f96424be936e261e049a)  
 - [2026-04-02-【早说】AI指数级进化时代的产品管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278860&idx=1&sn=54fc7b48572bb519431e0f10a96445c9&chksm=bcb6d6dbe3d7fe42cd6a8ffb84b072ab7ce5b5787129441ac8e8f430178090eed732c782546d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f893f77eeda4a1b71e0dc2c0c0f133a6)  
@@ -96,7 +97,6 @@
 - [2026-03-27-【第3677期】深入解剖-.claude/-文件夹：Claude-Code-的隐藏控制中枢](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278835&idx=1&sn=4e93359b8c4aeb263947a58a0f553a5f&chksm=bc966b89a5b88230ddb95df5a6b7b47bf4c11c0920c45a733e4ea67d57f1734a4e464010cbf4&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=99add4dd12e2bbba1b91f43a196d574c)  
 - [2026-03-26-【早说】智能体工程的八重境界](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278825&idx=1&sn=f0b2fbb1b6875140057155fbd56989a8&chksm=bc5746aafc9944fa78e72a3b19fff74b858059a38d70cca896229b414be87694d1261e60143a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=525bf5b9998c670208c123171603328d)  
 - [2026-03-25-【第3676期】Node.js-终于有了虚拟文件系统：node:vfs-来了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278813&idx=1&sn=80c81e8f0c210a87af8d57d50eb75cea&chksm=bc3e9b6577e3c0ccdb6665b94de47c558fb761c9df30bd83777f9048d053c6592c2788804ad7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=812473d5e9668d2f7f7b8b84f1c8462e)  
-- [2026-03-24-【第3675期】别再纠结格式：5-种设计模式，构建真正可靠的-AI-Agent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278808&idx=1&sn=cb062b1747e889741fc1ad1e42b7c225&chksm=bc82f8ebecd3a413e6a8963b5fc3378d07daac7e332cfb66b561307cfcea47b174050ae3c627&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=48eb58d9afd8932362d9060125fd08d3)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -402,9 +402,9 @@
 </summary>
 
 
-- [2026-04-07-最近把-Skills-Hub-又升了一波，顺便聊聊那些奇奇怪怪的-Skill](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523184&idx=1&sn=43569308f0522414ba930264c58711d7&chksm=e80fd43edf785d28de9bfc6260ece1601e3ba3e9b8963084f8be33c26b512d4dc8996b0819b1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8a95e77c21e545401fd8e802815bc425)  ![](/assets/new.png) 
-- [2026-04-06-Transformers-V4-最新发布！浏览器也能跑-AI-模型了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523174&idx=1&sn=82b09e889c9396fff27872199625bd53&chksm=e80fd428df785d3ef17de4e12dcfe3af28d5f74b08027e45e001f3789e3d458ce19cca1807bb#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d4299a0ef4e44c51325e89adf451db4d)  ![](/assets/new.png) 
-- [2026-04-04-终端里也能用鼠标点位置了！Claude-Code-推出-NO_FLICKER-全新渲染模式](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523162&idx=1&sn=6ca3752e4965862f3f65295c75ea5724&chksm=e80fd414df785d022800924de4f825d831e31e51614be9c2b505902ccdbe11edaa6ef8678338#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8e049a9dd4ae94c5a9070e490ddaa945)  ![](/assets/new.png) 
+- [2026-04-07-最近把-Skills-Hub-又升了一波，顺便聊聊那些奇奇怪怪的-Skill](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523184&idx=1&sn=43569308f0522414ba930264c58711d7&chksm=e80fd43edf785d28de9bfc6260ece1601e3ba3e9b8963084f8be33c26b512d4dc8996b0819b1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8a95e77c21e545401fd8e802815bc425)  
+- [2026-04-06-Transformers-V4-最新发布！浏览器也能跑-AI-模型了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523174&idx=1&sn=82b09e889c9396fff27872199625bd53&chksm=e80fd428df785d3ef17de4e12dcfe3af28d5f74b08027e45e001f3789e3d458ce19cca1807bb#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d4299a0ef4e44c51325e89adf451db4d)  
+- [2026-04-04-终端里也能用鼠标点位置了！Claude-Code-推出-NO_FLICKER-全新渲染模式](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523162&idx=1&sn=6ca3752e4965862f3f65295c75ea5724&chksm=e80fd414df785d022800924de4f825d831e31e51614be9c2b505902ccdbe11edaa6ef8678338#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8e049a9dd4ae94c5a9070e490ddaa945)  
 - [2026-04-03-刚刚，Cursor-3.0-发布！编辑器没了，变成了-Agent-指挥部](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523156&idx=1&sn=13c401936934f668f2bd9c8c4fdd6024&chksm=e80fd41adf785d0cb06cb551a5c734f8c4f5303c950327706f877b3157571f0272e41b659460#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d139e544d2f29bcdacbd3f92b687ca12)  
 - [2026-04-02-GitHub-Star-暴涨！前-React-核心成员出手，把浏览器-30-年算不好的文字布局问题解决了](http://mp.weixin.qq.com/s/ibVkVGk62j3kCPO_wxBYlg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f17f69647c6d7eb365318f05d053617f)  
 - [2026-04-01-504块咖啡钱，和一个价值千万的-AI-梦](http://mp.weixin.qq.com/s/9mKWwG8pg1Pn447ETZTfZw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b0837207e4fe100e308eea3c68d1f49a)  

@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-08 02:45:29。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-08 12:27:02。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -222,6 +222,7 @@
 
 
 
+- [【前端早读课】【第3680期】包容性暗色模式：为所有用户打造无障碍的深色主题](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278888&idx=1&sn=ac784db94bd203f501429cb0e7e81ecf&chksm=bcfe334e5ff8ea5f66bba3a8152a2e734a7cde4226c3ef0c477cb867ae18ad03dcd6ae11f4bf&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=bbc893e3c14d51549f5e0951fa983649)
 - [【张鑫旭-鑫空间-鑫生活】HTML-dialog元素新支持了closedBy属性](https://www.zhangxinxu.com/wordpress/2026/03/html-dialog-closedby/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9f9bb84eeb91885069a4c7e57a58b7cc)
 - [【张鑫旭-鑫空间-鑫生活】HTML-interestfor属性与悬停popover交互效果](https://www.zhangxinxu.com/wordpress/2026/03/css-interestfor-invoker-target-source/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=822c0f3fd53f1b05b135738d40620e01)
 - [【程序员成长指北】前端指纹技术是如何实现的？（Canvas、Audio、硬件API-核心原理解密）](http://mp.weixin.qq.com/s/IkxN7GkS5zgCH2LX5IHbsA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=96d3cf561da87fe6ff40c460cf1e47ba)
@@ -231,7 +232,6 @@
 - [【前端早读课】【第3637期】跨浏览器-Canvas-图像解码终极方案：让大图渲染也能丝滑不卡顿](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278364&idx=1&sn=0bbaa9b16eda03067396f840cdf1da4a&chksm=bc6ab77705a66d85ec463c3a50798c10f00e167a5ba7b7c9c722601a18c76d179c80f35e1ae2&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2ff39535b8c26628c9bff92be6871d4c)
 - [【前端大全】一种新HTML页面转换成-PDF-技术方案](http://mp.weixin.qq.com/s/IgttNByrz1_3ESzIY0Y4mQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5f692b8b813a9acefc55a39d09a3e74d)
 - [【JavaScript-Weekly】Building-JavaScript-tools-in-a-single-HTML-file](https://javascriptweekly.com/issues/765)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a868a823b965435cdfc962b4ac7605da)
-- [【前端大全】HTML-的隐藏宝藏：-标签](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623494&idx=2&sn=36dd6338dd0696f95fce0603d8a6f5d5&chksm=80224787b755ce91e88f1eedc8b3dc64fbf83819f97e037bff6ca8ffbd76f6138c510d8fd2b1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=513427de9620f48c6c23bf81932935b9)
 - [查看更多 >](/details/tags/html.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,6 +584,7 @@
 
 
 
+- [【前端早读课】【第3680期】包容性暗色模式：为所有用户打造无障碍的深色主题](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278888&idx=1&sn=ac784db94bd203f501429cb0e7e81ecf&chksm=bcfe334e5ff8ea5f66bba3a8152a2e734a7cde4226c3ef0c477cb867ae18ad03dcd6ae11f4bf&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=bbc893e3c14d51549f5e0951fa983649)
 - [【Nodejs技术栈】最近把-Skills-Hub-又升了一波，顺便聊聊那些奇奇怪怪的-Skill](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523184&idx=1&sn=43569308f0522414ba930264c58711d7&chksm=e80fd43edf785d28de9bfc6260ece1601e3ba3e9b8963084f8be33c26b512d4dc8996b0819b1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8a95e77c21e545401fd8e802815bc425)
 - [【张鑫旭-鑫空间-鑫生活】CSS六边形头像的实现与蜂巢布局](https://www.zhangxinxu.com/wordpress/2026/04/css-pyramidal-grid/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2d8c3aaf3f424b639a6bbbf6c48cff1c)
 - [【前端大全】前任、老板、同事…全部token化！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624343&idx=1&sn=1f6aa3aaeda39cbc02921f2043643a2e&chksm=80224456b755cd40ad627eb1bac65c569efe9853bd02e7846748b807f733b88b001e525521df#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b1a002350ee2d91f8e23ed8d54c4533c)
@@ -593,7 +594,6 @@
 - [【前端大全】Cursor-3-发布：IDE-不重要了，智能体控制台上位，VS-Code-这一套开始失效](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624335&idx=1&sn=2e582e6aab952823b7e65eb8b0a6288e&chksm=8022444eb755cd58d67ce869725d6a4d8857bcfa6444500edad814c269335c25880e6226f9e9#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=59f74ba9bd24488fb0e011e1f61005cc)
 - [【Nodejs技术栈】终端里也能用鼠标点位置了！Claude-Code-推出-NO_FLICKER-全新渲染模式](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523162&idx=1&sn=6ca3752e4965862f3f65295c75ea5724&chksm=e80fd414df785d022800924de4f825d831e31e51614be9c2b505902ccdbe11edaa6ef8678338#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8e049a9dd4ae94c5a9070e490ddaa945)
 - [【Nodejs技术栈】刚刚，Cursor-3.0-发布！编辑器没了，变成了-Agent-指挥部](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523156&idx=1&sn=13c401936934f668f2bd9c8c4fdd6024&chksm=e80fd41adf785d0cb06cb551a5c734f8c4f5303c950327706f877b3157571f0272e41b659460#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d139e544d2f29bcdacbd3f92b687ca12)
-- [【阮一峰的网络日志】科技爱好者周刊（第-391-期）：AI-的贫富分化](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d84ac0a58d1188959ec6e9608c9b063)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
