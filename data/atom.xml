@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-09T07:08:58.235Z</updated>
+    <updated>2026-04-09T15:13:04.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[CSS六边形头像的实现与蜂巢布局]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/04/css-pyramidal-grid/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/04/css-pyramidal-grid/"/>
+        <updated>2026-04-07T00:00:00.000Z</updated>
+        <published>2026-04-07T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harness 工程：不是新词，而是 Agent 工程终于被讲明白了]]></title>
+        <id>http://mp.weixin.qq.com/s/B8KmFuSPZs-iBI9b-GoNLQ</id>
+        <link href="http://mp.weixin.qq.com/s/B8KmFuSPZs-iBI9b-GoNLQ"/>
         <updated>2026-04-07T00:00:00.000Z</updated>
         <published>2026-04-07T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[前端发版后页面白屏？一套解决用户停留旧页面问题的完整方案]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529538&amp;idx=1&amp;sn=fa53f719ba91ed033fae434acdf2f443&amp;chksm=f9927293cee5fb856f554e25b5367b1f8bc638c899ff4eb73442b4781657d7f22797f6ee0ef0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529538&amp;idx=1&amp;sn=fa53f719ba91ed033fae434acdf2f443&amp;chksm=f9927293cee5fb856f554e25b5367b1f8bc638c899ff4eb73442b4781657d7f22797f6ee0ef0#rd"/>
-        <updated>2026-03-24T00:00:00.000Z</updated>
-        <published>2026-03-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 已能写 80% 代码，但 Agent 也有致命短板！]]></title>
-        <id>http://mp.weixin.qq.com/s/xuD2qJqTuqygrgzm8SE57A</id>
-        <link href="http://mp.weixin.qq.com/s/xuD2qJqTuqygrgzm8SE57A"/>
         <updated>2026-03-24T00:00:00.000Z</updated>
         <published>2026-03-24T00:00:00.000Z</published>
     </entry>

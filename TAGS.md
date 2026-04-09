@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-09 15:09:20。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-09 23:13:21。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -40,6 +40,7 @@
 
 
 
+- [【程序员成长指北】Harness-工程：不是新词，而是-Agent-工程终于被讲明白了](http://mp.weixin.qq.com/s/B8KmFuSPZs-iBI9b-GoNLQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=697936a9e56eaffb23f327c4550b5852)
 - [【前端早读课】【早说】不用IDE，只用计划文件和语音：所知道的Claude-Code全部技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278878&idx=1&sn=6c046dd000e27096fef7277b4f7ab421&chksm=bc764d3f8901646b987291836b932b1ed972a9edad2fbafa85ecf1c766053056dca59c63adf5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=76ab154e44351372af7a4789471435f6)
 - [【Nodejs技术栈】Transformers-V4-最新发布！浏览器也能跑-AI-模型了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523174&idx=1&sn=82b09e889c9396fff27872199625bd53&chksm=e80fd428df785d3ef17de4e12dcfe3af28d5f74b08027e45e001f3789e3d458ce19cca1807bb#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d4299a0ef4e44c51325e89adf451db4d)
 - [【前端大全】Cursor-3-发布：IDE-不重要了，智能体控制台上位，VS-Code-这一套开始失效](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624335&idx=1&sn=2e582e6aab952823b7e65eb8b0a6288e&chksm=8022444eb755cd58d67ce869725d6a4d8857bcfa6444500edad814c269335c25880e6226f9e9#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=59f74ba9bd24488fb0e011e1f61005cc)
@@ -49,7 +50,6 @@
 - [【淘系前端团队】淘宝跨端体验优化-AI-演进之路](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543161&idx=1&sn=203f52399657de9f0c1d8eced67d9cab&chksm=8390dc21b4e755379d46e4ed6d670ec4c0a5243dad60a4d1f9ed2950d918804a9e3ba5b491f6#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8cb07e172464c706363d4f3db943a7e0)
 - [【前端早读课】【早说】Ghostty创始人的AI之旅](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278865&idx=1&sn=72b0e18b749cbe4817d6f7b96c6ea7ed&chksm=bc0ba13f35cf0cd8f410ef892d3490d0c93ca1c3c35d2469057a5c6b627953e4a637451bd6f5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a293f09b5b10f96424be936e261e049a)
 - [【程序员成长指北】Skills-乱麻了！这款开源神器彻底终结噩梦，Cursor/Claude-一键全同步](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529642&idx=1&sn=16005d3929226468a8ee1b8c0ed4c8b6&chksm=f992727bcee5fb6d914cc77966c95fe1545ed7ad4d303da32eade65e5d892b826e4acc3e8b26#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=19f3ce33241b6645338b72c2f8cd13f1)
-- [【前端早读课】【早说】AI指数级进化时代的产品管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278860&idx=1&sn=54fc7b48572bb519431e0f10a96445c9&chksm=bcb6d6dbe3d7fe42cd6a8ffb84b072ab7ce5b5787129441ac8e8f430178090eed732c782546d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f893f77eeda4a1b71e0dc2c0c0f133a6)
 - [查看更多 >](/details/tags/ai.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -588,12 +588,12 @@
 - [【前端早读课】【第3680期】包容性暗色模式：为所有用户打造无障碍的深色主题](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278888&idx=1&sn=ac784db94bd203f501429cb0e7e81ecf&chksm=bcfe334e5ff8ea5f66bba3a8152a2e734a7cde4226c3ef0c477cb867ae18ad03dcd6ae11f4bf&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=bbc893e3c14d51549f5e0951fa983649)
 - [【Nodejs技术栈】最近把-Skills-Hub-又升了一波，顺便聊聊那些奇奇怪怪的-Skill](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523184&idx=1&sn=43569308f0522414ba930264c58711d7&chksm=e80fd43edf785d28de9bfc6260ece1601e3ba3e9b8963084f8be33c26b512d4dc8996b0819b1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8a95e77c21e545401fd8e802815bc425)
 - [【张鑫旭-鑫空间-鑫生活】CSS六边形头像的实现与蜂巢布局](https://www.zhangxinxu.com/wordpress/2026/04/css-pyramidal-grid/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2d8c3aaf3f424b639a6bbbf6c48cff1c)
+- [【程序员成长指北】Harness-工程：不是新词，而是-Agent-工程终于被讲明白了](http://mp.weixin.qq.com/s/B8KmFuSPZs-iBI9b-GoNLQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=697936a9e56eaffb23f327c4550b5852)
 - [【前端大全】前任、老板、同事…全部token化！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624343&idx=1&sn=1f6aa3aaeda39cbc02921f2043643a2e&chksm=80224456b755cd40ad627eb1bac65c569efe9853bd02e7846748b807f733b88b001e525521df#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b1a002350ee2d91f8e23ed8d54c4533c)
 - [【前端早读课】【早说】不用IDE，只用计划文件和语音：所知道的Claude-Code全部技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278878&idx=1&sn=6c046dd000e27096fef7277b4f7ab421&chksm=bc764d3f8901646b987291836b932b1ed972a9edad2fbafa85ecf1c766053056dca59c63adf5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=76ab154e44351372af7a4789471435f6)
 - [【JavaScript-Weekly】What-to-know-about-JavaScript-in-2026](https://javascriptweekly.com/issues/780)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=aafd5aee5b247137a4ebb770a7324a8f)
 - [【Nodejs技术栈】Transformers-V4-最新发布！浏览器也能跑-AI-模型了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523174&idx=1&sn=82b09e889c9396fff27872199625bd53&chksm=e80fd428df785d3ef17de4e12dcfe3af28d5f74b08027e45e001f3789e3d458ce19cca1807bb#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d4299a0ef4e44c51325e89adf451db4d)
 - [【前端大全】Cursor-3-发布：IDE-不重要了，智能体控制台上位，VS-Code-这一套开始失效](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624335&idx=1&sn=2e582e6aab952823b7e65eb8b0a6288e&chksm=8022444eb755cd58d67ce869725d6a4d8857bcfa6444500edad814c269335c25880e6226f9e9#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=59f74ba9bd24488fb0e011e1f61005cc)
-- [【Nodejs技术栈】终端里也能用鼠标点位置了！Claude-Code-推出-NO_FLICKER-全新渲染模式](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523162&idx=1&sn=6ca3752e4965862f3f65295c75ea5724&chksm=e80fd414df785d022800924de4f825d831e31e51614be9c2b505902ccdbe11edaa6ef8678338#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8e049a9dd4ae94c5a9070e490ddaa945)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

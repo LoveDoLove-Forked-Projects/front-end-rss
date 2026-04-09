@@ -14,17 +14,17 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-04-09 15:09:20，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-09 23:13:21，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -87,7 +87,7 @@
 </summary>
 
 
-- [2026-04-09-【第3681期】拆解编程智能体：让大模型真正会写代码的六大核心组件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278906&idx=1&sn=18fd9ea1df2c13bdf6d8392d01d2f60d&chksm=bcb36108cef8fb4e5e40a93f9e903c9787d9413400b35104b5ecaabef0bef09f1275b9aada63&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=25102e2674373dab5e585fe32a194d94)  ![](/assets/new.png) 
+- [2026-04-09-【第3681期】拆解编程智能体：让大模型真正会写代码的六大核心组件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278906&idx=1&sn=18fd9ea1df2c13bdf6d8392d01d2f60d&chksm=bcb36108cef8fb4e5e40a93f9e903c9787d9413400b35104b5ecaabef0bef09f1275b9aada63&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=25102e2674373dab5e585fe32a194d94)  
 - [2026-04-08-【第3680期】包容性暗色模式：为所有用户打造无障碍的深色主题](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278888&idx=1&sn=ac784db94bd203f501429cb0e7e81ecf&chksm=bcfe334e5ff8ea5f66bba3a8152a2e734a7cde4226c3ef0c477cb867ae18ad03dcd6ae11f4bf&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=bbc893e3c14d51549f5e0951fa983649)  
 - [2026-04-07-【早说】不用IDE，只用计划文件和语音：所知道的Claude-Code全部技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278878&idx=1&sn=6c046dd000e27096fef7277b4f7ab421&chksm=bc764d3f8901646b987291836b932b1ed972a9edad2fbafa85ecf1c766053056dca59c63adf5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=76ab154e44351372af7a4789471435f6)  
 - [2026-04-03-【早说】Ghostty创始人的AI之旅](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278865&idx=1&sn=72b0e18b749cbe4817d6f7b96c6ea7ed&chksm=bc0ba13f35cf0cd8f410ef892d3490d0c93ca1c3c35d2469057a5c6b627953e4a637451bd6f5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a293f09b5b10f96424be936e261e049a)  
@@ -171,6 +171,7 @@
 </summary>
 
 
+- [2026-04-07-Harness-工程：不是新词，而是-Agent-工程终于被讲明白了](http://mp.weixin.qq.com/s/B8KmFuSPZs-iBI9b-GoNLQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=697936a9e56eaffb23f327c4550b5852)  ![](/assets/new.png) 
 - [2026-04-02-Skills-乱麻了！这款开源神器彻底终结噩梦，Cursor/Claude-一键全同步](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529642&idx=1&sn=16005d3929226468a8ee1b8c0ed4c8b6&chksm=f992727bcee5fb6d914cc77966c95fe1545ed7ad4d303da32eade65e5d892b826e4acc3e8b26#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=19f3ce33241b6645338b72c2f8cd13f1)  
 - [2026-04-01-LangGraph：基于图的-AI-Agent-编排框架深度解析](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529639&idx=1&sn=325db2a072d5d2f17c7d84734ca0683a&chksm=f9927276cee5fb60652b3ddc219a4b464b07ab5c86df4eb4486fce3b6a47e8fd6b57dd8a4469#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=27b84778555eecfdf7f5fbfca2c4730e)  
 - [2026-03-31-【D2-演讲实录】从上下文工程到-Harness-Engineering](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529620&idx=1&sn=d0bba042bb1f4b84b07f5a3075b8f360&chksm=f9927245cee5fb530ec8bb3e239ab3b50b17deab10d2e0e1b9ce4b92516f38708a91e6c6a22a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=45812a14c92e0214a946516285072199)  
@@ -180,7 +181,6 @@
 - [2026-03-25-web前端230道场景题，背完你的offer就炸了](http://mp.weixin.qq.com/s/9HRDafcOghUyk1QFFW9R6Q)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1ae2a6c36cb02dc10dcb430de4fb8571)  
 - [2026-03-24-前端发版后页面白屏？一套解决用户停留旧页面问题的完整方案](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529538&idx=1&sn=fa53f719ba91ed033fae434acdf2f443&chksm=f9927293cee5fb856f554e25b5367b1f8bc638c899ff4eb73442b4781657d7f22797f6ee0ef0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f4f0cd4ace5924b2093000c24d1a7522)  
 - [2026-03-23-从-nanobot-理解-openclaw-核心设计](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529495&idx=1&sn=49439277e289e9948fb70033f69862e5&chksm=f99272c6cee5fbd0a2e43a039ee7e5eb9fc8958d8eb3e19bee8c4fa9f112dcdcf132db72efa7#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6829985cc37c3fb667d478974ba28203)  
-- [2026-03-20-为什么越来越多前端开始重看-WebAssembly](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529493&idx=1&sn=8cf92b7ef4c302f8520300bf46b62f6e&chksm=f99272c4cee5fbd27e92a676b16307ac3c014bfc80031bd0b62b0662a8d944f998ecf5895bc1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e48488bb76dc67e0f2a406113bedc8b3)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
