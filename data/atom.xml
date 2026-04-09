@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-08T04:26:43.767Z</updated>
+    <updated>2026-04-09T07:08:58.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3681期】拆解编程智能体：让大模型真正会写代码的六大核心组件]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278906&amp;idx=1&amp;sn=18fd9ea1df2c13bdf6d8392d01d2f60d&amp;chksm=bcb36108cef8fb4e5e40a93f9e903c9787d9413400b35104b5ecaabef0bef09f1275b9aada63&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278906&amp;idx=1&amp;sn=18fd9ea1df2c13bdf6d8392d01d2f60d&amp;chksm=bcb36108cef8fb4e5e40a93f9e903c9787d9413400b35104b5ecaabef0bef09f1275b9aada63&amp;scene=0#rd"/>
+        <updated>2026-04-09T00:00:00.000Z</updated>
+        <published>2026-04-09T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3680期】包容性暗色模式：为所有用户打造无障碍的深色主题]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278888&amp;idx=1&amp;sn=ac784db94bd203f501429cb0e7e81ecf&amp;chksm=bcfe334e5ff8ea5f66bba3a8152a2e734a7cde4226c3ef0c477cb867ae18ad03dcd6ae11f4bf&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[AI 已能写 80% 代码，但 Agent 也有致命短板！]]></title>
         <id>http://mp.weixin.qq.com/s/xuD2qJqTuqygrgzm8SE57A</id>
         <link href="http://mp.weixin.qq.com/s/xuD2qJqTuqygrgzm8SE57A"/>
-        <updated>2026-03-24T00:00:00.000Z</updated>
-        <published>2026-03-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3675期】别再纠结格式：5 种设计模式，构建真正可靠的 AI Agent]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278808&amp;idx=1&amp;sn=cb062b1747e889741fc1ad1e42b7c225&amp;chksm=bc82f8ebecd3a413e6a8963b5fc3378d07daac7e332cfb66b561307cfcea47b174050ae3c627&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278808&amp;idx=1&amp;sn=cb062b1747e889741fc1ad1e42b7c225&amp;chksm=bc82f8ebecd3a413e6a8963b5fc3378d07daac7e332cfb66b561307cfcea47b174050ae3c627&amp;scene=0#rd"/>
         <updated>2026-03-24T00:00:00.000Z</updated>
         <published>2026-03-24T00:00:00.000Z</published>
     </entry>
