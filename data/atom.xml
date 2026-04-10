@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-10T07:13:41.355Z</updated>
+    <updated>2026-04-10T08:58:27.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 392 期）：axios 投毒与好莱坞式骗术]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html</id>
         <link href="http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html"/>
+        <updated>2026-04-10T00:00:00.000Z</updated>
+        <published>2026-04-10T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3682期】别让AI替你思考：苏格拉底提示法，把AI变成你的思考搭档]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278911&amp;idx=1&amp;sn=67a81a5373518b0b343ace3ffc8790e8&amp;chksm=bc75ab09a7c6da60183ab9bc7589bec9cadd9efcb09c5ce8826635a8e22d0504faf7aeeef383&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278911&amp;idx=1&amp;sn=67a81a5373518b0b343ace3ffc8790e8&amp;chksm=bc75ab09a7c6da60183ab9bc7589bec9cadd9efcb09c5ce8826635a8e22d0504faf7aeeef383&amp;scene=0#rd"/>
         <updated>2026-04-10T00:00:00.000Z</updated>
         <published>2026-04-10T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[别搞混了！MCP 和 Agent Skill 到底有什么区别？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624270&amp;idx=1&amp;sn=5ea044378804aac90c99a512f0841ced&amp;chksm=8022448fb755cd99287d93c79da36f31423d24435ff43c54b7227af4a95586aaa661fadd3d36#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624270&amp;idx=1&amp;sn=5ea044378804aac90c99a512f0841ced&amp;chksm=8022448fb755cd99287d93c79da36f31423d24435ff43c54b7227af4a95586aaa661fadd3d36#rd"/>
-        <updated>2026-03-26T00:00:00.000Z</updated>
-        <published>2026-03-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How TypeScript 6.0 affects Node developers]]></title>
-        <id>https://nodeweekly.com/issues/617</id>
-        <link href="https://nodeweekly.com/issues/617"/>
         <updated>2026-03-26T00:00:00.000Z</updated>
         <published>2026-03-26T00:00:00.000Z</published>
     </entry>
