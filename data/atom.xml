@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-09T16:55:54.696Z</updated>
+    <updated>2026-04-10T04:36:33.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 392 期）：axios 投毒与好莱坞式骗术]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html"/>
+        <updated>2026-04-10T00:00:00.000Z</updated>
+        <published>2026-04-10T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3681期】拆解编程智能体：让大模型真正会写代码的六大核心组件]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278906&amp;idx=1&amp;sn=18fd9ea1df2c13bdf6d8392d01d2f60d&amp;chksm=bcb36108cef8fb4e5e40a93f9e903c9787d9413400b35104b5ecaabef0bef09f1275b9aada63&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[拒绝“感觉有效”：用数据证明 AI Coding 的真实团队价值【天猫AI Coding实践系列】]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543083&amp;idx=1&amp;sn=b4759cb5c4ce079dc214782e37a0a506&amp;chksm=8390dbf3b4e752e5cec248facb974fa83af70c2a3c4021fe6accbe8174be9a26e302a54ca2e7#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543083&amp;idx=1&amp;sn=b4759cb5c4ce079dc214782e37a0a506&amp;chksm=8390dbf3b4e752e5cec248facb974fa83af70c2a3c4021fe6accbe8174be9a26e302a54ca2e7#rd"/>
-        <updated>2026-03-25T00:00:00.000Z</updated>
-        <published>2026-03-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3676期】Node.js 终于有了虚拟文件系统：node:vfs 来了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278813&amp;idx=1&amp;sn=80c81e8f0c210a87af8d57d50eb75cea&amp;chksm=bc3e9b6577e3c0ccdb6665b94de47c558fb761c9df30bd83777f9048d053c6592c2788804ad7&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278813&amp;idx=1&amp;sn=80c81e8f0c210a87af8d57d50eb75cea&amp;chksm=bc3e9b6577e3c0ccdb6665b94de47c558fb761c9df30bd83777f9048d053c6592c2788804ad7&amp;scene=0#rd"/>
         <updated>2026-03-25T00:00:00.000Z</updated>
         <published>2026-03-25T00:00:00.000Z</published>
     </entry>
