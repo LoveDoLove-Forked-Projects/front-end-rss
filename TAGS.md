@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-11 02:38:24。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-11 06:25:22。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -41,6 +41,7 @@
 
 
 - [【淘系前端团队】AI-答疑助手优化实践：从-RAG-到-LightRAG-的全链路升级](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543171&idx=1&sn=792d48c6fcb2a43c05ef886cd2cf71cd&chksm=8390dc5bb4e7554d8134f191ce27f1914cf36ffe0e72a50794df47761b5bc7ca2b42bf65112d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8922cdc69b9d2b7c085a475eba3296a0)
+- [【前端从进阶到入院】MIT实锤：AI代码迭代5次，比人类屎山烂2.2倍](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517569&idx=1&sn=aa2ac781d1fda0ba4ff3d97fa6ab84e7&chksm=eb07bdf8dc7034eea31775c77aa6b1ca6449ea8b5b0cfc38659eaead98ecd2a22901214a9f7c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e1b73d48389e6223e86ae6cb2617159e)
 - [【前端早读课】【第3682期】别让AI替你思考：苏格拉底提示法，把AI变成你的思考搭档](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278911&idx=1&sn=67a81a5373518b0b343ace3ffc8790e8&chksm=bc75ab09a7c6da60183ab9bc7589bec9cadd9efcb09c5ce8826635a8e22d0504faf7aeeef383&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4167328630922ea01a25b7d6ed613d3a)
 - [【淘系前端团队】告别“伪智能”代码：用-Spec-+-RAG-打造真正懂你的AI程序员](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543163&idx=1&sn=ba3f6f1eef51ddf354828fed2aa622c3&chksm=8390dc23b4e75535288e5e3b653f7e97806e3ad67efd9fa7f9640b6a7d802427c0389f949997#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cd84b00f47546e7489ac2961ace67865)
 - [【程序员成长指北】Harness-工程：不是新词，而是-Agent-工程终于被讲明白了](http://mp.weixin.qq.com/s/B8KmFuSPZs-iBI9b-GoNLQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=697936a9e56eaffb23f327c4550b5852)
@@ -49,7 +50,6 @@
 - [【前端大全】Cursor-3-发布：IDE-不重要了，智能体控制台上位，VS-Code-这一套开始失效](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624335&idx=1&sn=2e582e6aab952823b7e65eb8b0a6288e&chksm=8022444eb755cd58d67ce869725d6a4d8857bcfa6444500edad814c269335c25880e6226f9e9#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=59f74ba9bd24488fb0e011e1f61005cc)
 - [【Nodejs技术栈】终端里也能用鼠标点位置了！Claude-Code-推出-NO_FLICKER-全新渲染模式](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523162&idx=1&sn=6ca3752e4965862f3f65295c75ea5724&chksm=e80fd414df785d022800924de4f825d831e31e51614be9c2b505902ccdbe11edaa6ef8678338#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8e049a9dd4ae94c5a9070e490ddaa945)
 - [【Nodejs技术栈】刚刚，Cursor-3.0-发布！编辑器没了，变成了-Agent-指挥部](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523156&idx=1&sn=13c401936934f668f2bd9c8c4fdd6024&chksm=e80fd41adf785d0cb06cb551a5c734f8c4f5303c950327706f877b3157571f0272e41b659460#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d139e544d2f29bcdacbd3f92b687ca12)
-- [【阮一峰的网络日志】科技爱好者周刊（第-391-期）：AI-的贫富分化](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d84ac0a58d1188959ec6e9608c9b063)
 - [查看更多 >](/details/tags/ai.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -586,6 +586,7 @@
 
 - [【阮一峰的网络日志】科技爱好者周刊（第-392-期）：axios-投毒与好莱坞式骗术](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e2ccc12b94e830cb0bfccfa4ea562670)
 - [【淘系前端团队】AI-答疑助手优化实践：从-RAG-到-LightRAG-的全链路升级](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543171&idx=1&sn=792d48c6fcb2a43c05ef886cd2cf71cd&chksm=8390dc5bb4e7554d8134f191ce27f1914cf36ffe0e72a50794df47761b5bc7ca2b42bf65112d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8922cdc69b9d2b7c085a475eba3296a0)
+- [【前端从进阶到入院】MIT实锤：AI代码迭代5次，比人类屎山烂2.2倍](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517569&idx=1&sn=aa2ac781d1fda0ba4ff3d97fa6ab84e7&chksm=eb07bdf8dc7034eea31775c77aa6b1ca6449ea8b5b0cfc38659eaead98ecd2a22901214a9f7c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e1b73d48389e6223e86ae6cb2617159e)
 - [【前端早读课】【第3682期】别让AI替你思考：苏格拉底提示法，把AI变成你的思考搭档](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278911&idx=1&sn=67a81a5373518b0b343ace3ffc8790e8&chksm=bc75ab09a7c6da60183ab9bc7589bec9cadd9efcb09c5ce8826635a8e22d0504faf7aeeef383&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4167328630922ea01a25b7d6ed613d3a)
 - [【前端早读课】【第3681期】拆解编程智能体：让大模型真正会写代码的六大核心组件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278906&idx=1&sn=18fd9ea1df2c13bdf6d8392d01d2f60d&chksm=bcb36108cef8fb4e5e40a93f9e903c9787d9413400b35104b5ecaabef0bef09f1275b9aada63&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=25102e2674373dab5e585fe32a194d94)
 - [【Node-Weekly】Social-engineering-attacks-target-high-impact-Node.js-maintainers](https://nodeweekly.com/issues/619)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=25cbe0bf91baee921ebc6c8539d8da58)
@@ -593,7 +594,6 @@
 - [【前端早读课】【第3680期】包容性暗色模式：为所有用户打造无障碍的深色主题](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278888&idx=1&sn=ac784db94bd203f501429cb0e7e81ecf&chksm=bcfe334e5ff8ea5f66bba3a8152a2e734a7cde4226c3ef0c477cb867ae18ad03dcd6ae11f4bf&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=bbc893e3c14d51549f5e0951fa983649)
 - [【Nodejs技术栈】最近把-Skills-Hub-又升了一波，顺便聊聊那些奇奇怪怪的-Skill](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523184&idx=1&sn=43569308f0522414ba930264c58711d7&chksm=e80fd43edf785d28de9bfc6260ece1601e3ba3e9b8963084f8be33c26b512d4dc8996b0819b1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8a95e77c21e545401fd8e802815bc425)
 - [【张鑫旭-鑫空间-鑫生活】CSS六边形头像的实现与蜂巢布局](https://www.zhangxinxu.com/wordpress/2026/04/css-pyramidal-grid/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2d8c3aaf3f424b639a6bbbf6c48cff1c)
-- [【程序员成长指北】Harness-工程：不是新词，而是-Agent-工程终于被讲明白了](http://mp.weixin.qq.com/s/B8KmFuSPZs-iBI9b-GoNLQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=697936a9e56eaffb23f327c4550b5852)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

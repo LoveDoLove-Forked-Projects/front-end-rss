@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-10T18:38:01.190Z</updated>
+    <updated>2026-04-10T22:25:03.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[AI 答疑助手优化实践：从 RAG 到 LightRAG 的全链路升级]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543171&amp;idx=1&amp;sn=792d48c6fcb2a43c05ef886cd2cf71cd&amp;chksm=8390dc5bb4e7554d8134f191ce27f1914cf36ffe0e72a50794df47761b5bc7ca2b42bf65112d#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543171&amp;idx=1&amp;sn=792d48c6fcb2a43c05ef886cd2cf71cd&amp;chksm=8390dc5bb4e7554d8134f191ce27f1914cf36ffe0e72a50794df47761b5bc7ca2b42bf65112d#rd"/>
+        <updated>2026-04-10T00:00:00.000Z</updated>
+        <published>2026-04-10T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MIT实锤：AI代码迭代5次，比人类屎山烂2.2倍]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517569&amp;idx=1&amp;sn=aa2ac781d1fda0ba4ff3d97fa6ab84e7&amp;chksm=eb07bdf8dc7034eea31775c77aa6b1ca6449ea8b5b0cfc38659eaead98ecd2a22901214a9f7c#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517569&amp;idx=1&amp;sn=aa2ac781d1fda0ba4ff3d97fa6ab84e7&amp;chksm=eb07bdf8dc7034eea31775c77aa6b1ca6449ea8b5b0cfc38659eaead98ecd2a22901214a9f7c#rd"/>
         <updated>2026-04-10T00:00:00.000Z</updated>
         <published>2026-04-10T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[一个 19000 行的 PR 引爆了 Node.js 社区，集体请愿禁止 AI 代码]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523079&amp;idx=1&amp;sn=e80d92be76cdc8f2f96138d009218278&amp;chksm=e80fd449df785d5fefd16cd89ae6ec64c327e43844f7b714d366549ad0625d0c6b369f42575a#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523079&amp;idx=1&amp;sn=e80d92be76cdc8f2f96138d009218278&amp;chksm=e80fd449df785d5fefd16cd89ae6ec64c327e43844f7b714d366549ad0625d0c6b369f42575a#rd"/>
-        <updated>2026-03-26T00:00:00.000Z</updated>
-        <published>2026-03-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[别再裸用 Claude Code 了！32 个亲测技能 + 8 个 MCP 服务器，开发效率直接拉满！]]></title>
-        <id>http://mp.weixin.qq.com/s/jPZsQsXt3ugysBn4bIHOag</id>
-        <link href="http://mp.weixin.qq.com/s/jPZsQsXt3ugysBn4bIHOag"/>
         <updated>2026-03-26T00:00:00.000Z</updated>
         <published>2026-03-26T00:00:00.000Z</published>
     </entry>

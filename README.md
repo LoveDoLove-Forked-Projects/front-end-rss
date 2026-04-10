@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-04-11 02:38:24，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-11 06:25:22，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -28,9 +28,9 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
@@ -255,6 +255,7 @@
 </summary>
 
 
+- [2026-04-10-MIT实锤：AI代码迭代5次，比人类屎山烂2.2倍](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517569&idx=1&sn=aa2ac781d1fda0ba4ff3d97fa6ab84e7&chksm=eb07bdf8dc7034eea31775c77aa6b1ca6449ea8b5b0cfc38659eaead98ecd2a22901214a9f7c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e1b73d48389e6223e86ae6cb2617159e)  ![](/assets/new.png) 
 - [2026-04-01-紧急！Axios-被投毒，3亿项目受到影响！教你怎么自查！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517566&idx=1&sn=92989a760237d4a09b0b767c33b0406b&chksm=eb07bd07dc70341109910e6c0ad1e3a0b21e242f24b400cd18655b6ae5cf1ab66d70c1a93365#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3c0173f671e84a4e648a2e9f9bd67f24)  
 - [2026-03-31-Pretext：前端文本布局的下一个范式转变](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517564&idx=1&sn=2cd94053d488764d59c532d486d3ad2c&chksm=eb07bd05dc703413e05333028b748e1e4f0f3624682de5898deba9a50dfd447c806fc0451991#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c021bab3277c43008ce85dc8fcfcfb74)  
 - [2026-03-30-CDP-是什么？理解它，才算真正懂了前端调试工具链](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517562&idx=1&sn=b173e453dec75217a35c0a9012ed65a7&chksm=eb07bd03dc703415615de2a6c9e1f7d226d052e2846f87d96a2f3e7e5305874f3dd0caf08388#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=157a5d153cc12fb187a0ab5365569f94)  
@@ -264,7 +265,6 @@
 - [2026-03-11-重磅！Vite-DevTools-发布！功能一览！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517554&idx=1&sn=d5a1a3391bf0336d7efc8f592d0d39bb&chksm=eb07bd0bdc70341d241360d2cb7b07599a5da1a0aaaa6826824abdfbb536287cfd4321260e5c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=749d90fa5286e50273b5668ed1eac610)  
 - [2026-03-10-web前端230道场景题，背完你的offer就炸了](http://mp.weixin.qq.com/s/0hJRbl2RInw6jQaU7hevGg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8ec7977fe819cad14d012a11d946e774)  
 - [2026-03-06-Vue-Native-最新进展！](http://mp.weixin.qq.com/s/UuX1cI0spiYbZuHkKJ7ltA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=edc814033f32e63879e3d861784d3ae0)  
-- [2026-02-27-刚刚，Webpack-官宣-2026-年大动作！](http://mp.weixin.qq.com/s/UkgAvcj6B9-eUQc880rf4g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6728388e9d0c549ddf11740685752a82)  
 - [查看更多 >](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -297,7 +297,7 @@
 </summary>
 
 
-- [2026-04-10-AI-答疑助手优化实践：从-RAG-到-LightRAG-的全链路升级](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543171&idx=1&sn=792d48c6fcb2a43c05ef886cd2cf71cd&chksm=8390dc5bb4e7554d8134f191ce27f1914cf36ffe0e72a50794df47761b5bc7ca2b42bf65112d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8922cdc69b9d2b7c085a475eba3296a0)  ![](/assets/new.png) 
+- [2026-04-10-AI-答疑助手优化实践：从-RAG-到-LightRAG-的全链路升级](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543171&idx=1&sn=792d48c6fcb2a43c05ef886cd2cf71cd&chksm=8390dc5bb4e7554d8134f191ce27f1914cf36ffe0e72a50794df47761b5bc7ca2b42bf65112d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8922cdc69b9d2b7c085a475eba3296a0)  
 - [2026-04-08-告别“伪智能”代码：用-Spec-+-RAG-打造真正懂你的AI程序员](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543163&idx=1&sn=ba3f6f1eef51ddf354828fed2aa622c3&chksm=8390dc23b4e75535288e5e3b653f7e97806e3ad67efd9fa7f9640b6a7d802427c0389f949997#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cd84b00f47546e7489ac2961ace67865)  
 - [2026-04-03-淘宝跨端体验优化-AI-演进之路](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543161&idx=1&sn=203f52399657de9f0c1d8eced67d9cab&chksm=8390dc21b4e755379d46e4ed6d670ec4c0a5243dad60a4d1f9ed2950d918804a9e3ba5b491f6#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8cb07e172464c706363d4f3db943a7e0)  
 - [2026-04-01-淘宝营销会场智能测试平台的AI落地实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543144&idx=1&sn=721c1a6266e58ecc7d383e368a04bebd&chksm=8390dc30b4e755269829f70d5ea10ea7281c2b27b5b34cde97c6560b11a7b6f96a82599eee60#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8bebb64e26b7f9fa38e89f0f97c6d4db)  
