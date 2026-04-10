@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-10T04:36:33.869Z</updated>
+    <updated>2026-04-10T07:13:41.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -34,6 +34,13 @@
         <link href="https://nodeweekly.com/issues/619"/>
         <updated>2026-04-09T00:00:00.000Z</updated>
         <published>2026-04-09T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[告别“伪智能”代码：用 Spec + RAG 打造真正懂你的AI程序员]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543163&amp;idx=1&amp;sn=ba3f6f1eef51ddf354828fed2aa622c3&amp;chksm=8390dc23b4e75535288e5e3b653f7e97806e3ad67efd9fa7f9640b6a7d802427c0389f949997#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543163&amp;idx=1&amp;sn=ba3f6f1eef51ddf354828fed2aa622c3&amp;chksm=8390dc23b4e75535288e5e3b653f7e97806e3ad67efd9fa7f9640b6a7d802427c0389f949997#rd"/>
+        <updated>2026-04-08T00:00:00.000Z</updated>
+        <published>2026-04-08T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【第3680期】包容性暗色模式：为所有用户打造无障碍的深色主题]]></title>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/617"/>
         <updated>2026-03-26T00:00:00.000Z</updated>
         <published>2026-03-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拒绝“感觉有效”：用数据证明 AI Coding 的真实团队价值【天猫AI Coding实践系列】]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543083&amp;idx=1&amp;sn=b4759cb5c4ce079dc214782e37a0a506&amp;chksm=8390dbf3b4e752e5cec248facb974fa83af70c2a3c4021fe6accbe8174be9a26e302a54ca2e7#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543083&amp;idx=1&amp;sn=b4759cb5c4ce079dc214782e37a0a506&amp;chksm=8390dbf3b4e752e5cec248facb974fa83af70c2a3c4021fe6accbe8174be9a26e302a54ca2e7#rd"/>
-        <updated>2026-03-25T00:00:00.000Z</updated>
-        <published>2026-03-25T00:00:00.000Z</published>
     </entry>
 </feed>

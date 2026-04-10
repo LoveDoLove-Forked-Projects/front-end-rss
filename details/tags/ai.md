@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-10 12:36:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-10 15:14:12。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-04-08-告别“伪智能”代码：用-Spec-+-RAG-打造真正懂你的AI程序员](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543163&idx=1&sn=ba3f6f1eef51ddf354828fed2aa622c3&chksm=8390dc23b4e75535288e5e3b653f7e97806e3ad67efd9fa7f9640b6a7d802427c0389f949997#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cd84b00f47546e7489ac2961ace67865) 
 - [2026-04-07-Harness-工程：不是新词，而是-Agent-工程终于被讲明白了](http://mp.weixin.qq.com/s/B8KmFuSPZs-iBI9b-GoNLQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=697936a9e56eaffb23f327c4550b5852) 
 - [2026-04-07-【早说】不用IDE，只用计划文件和语音：所知道的Claude-Code全部技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278878&idx=1&sn=6c046dd000e27096fef7277b4f7ab421&chksm=bc764d3f8901646b987291836b932b1ed972a9edad2fbafa85ecf1c766053056dca59c63adf5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=76ab154e44351372af7a4789471435f6) 
 - [2026-04-06-Transformers-V4-最新发布！浏览器也能跑-AI-模型了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523174&idx=1&sn=82b09e889c9396fff27872199625bd53&chksm=e80fd428df785d3ef17de4e12dcfe3af28d5f74b08027e45e001f3789e3d458ce19cca1807bb#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d4299a0ef4e44c51325e89adf451db4d) 

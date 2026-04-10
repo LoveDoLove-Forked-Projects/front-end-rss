@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-04-10 12:36:55，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-10 15:14:12，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -30,9 +30,9 @@
 - [前端精读评论](#前端精读评论)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
 - [Nodejs技术栈](#nodejs技术栈)  
@@ -297,16 +297,16 @@
 </summary>
 
 
+- [2026-04-08-告别“伪智能”代码：用-Spec-+-RAG-打造真正懂你的AI程序员](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543163&idx=1&sn=ba3f6f1eef51ddf354828fed2aa622c3&chksm=8390dc23b4e75535288e5e3b653f7e97806e3ad67efd9fa7f9640b6a7d802427c0389f949997#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cd84b00f47546e7489ac2961ace67865)  ![](/assets/new.png) 
 - [2026-04-03-淘宝跨端体验优化-AI-演进之路](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543161&idx=1&sn=203f52399657de9f0c1d8eced67d9cab&chksm=8390dc21b4e755379d46e4ed6d670ec4c0a5243dad60a4d1f9ed2950d918804a9e3ba5b491f6#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8cb07e172464c706363d4f3db943a7e0)  
 - [2026-04-01-淘宝营销会场智能测试平台的AI落地实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543144&idx=1&sn=721c1a6266e58ecc7d383e368a04bebd&chksm=8390dc30b4e755269829f70d5ea10ea7281c2b27b5b34cde97c6560b11a7b6f96a82599eee60#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8bebb64e26b7f9fa38e89f0f97c6d4db)  
 - [2026-03-30-从-Vibe-Coding-到范式编程：用-Spec-打造淘系交易的-AI-领域专家](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543105&idx=1&sn=fec6d68f9c81df650d53981a460b0b11&chksm=8390dc19b4e7550f67eb5bcfedd406594f70904fdf5452690d8cda3c1bb13e3fa36df0dcc3ba#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=42c72adf37ba71a073269ab89ee10968)  
 - [2026-03-27-97.9%采纳率，胶水编程：业务需求出码最佳实践【天猫AI-Coding实践系列】](http://mp.weixin.qq.com/s/G3aKbzdGUyD2h1aVjvbr2g)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=90a1d805c6821557f4eccd1be2d00e16)  
 - [2026-03-25-拒绝“感觉有效”：用数据证明-AI-Coding-的真实团队价值【天猫AI-Coding实践系列】](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543083&idx=1&sn=b4759cb5c4ce079dc214782e37a0a506&chksm=8390dbf3b4e752e5cec248facb974fa83af70c2a3c4021fe6accbe8174be9a26e302a54ca2e7#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=acbe2ba947f22e139471594b060866c3)  
 - [2026-03-23-知识基座：让“AI-越用越懂业务”的团队经验实践【天猫AI-Coding实践系列】](http://mp.weixin.qq.com/s/P-p4-BH8AAOnTBRcpsoKeQ)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cde722a2acae70ca2f77074b5169c471)  
-- [2026-03-20-请查收！淘天集团27届实习生校招大事件，文末阅读原文报名宣讲会](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543062&idx=2&sn=f51acd46793fdb53f4a6a998ad935311&chksm=8390dbceb4e752d8f6f15f2c6142ec0c1f56922602b252327390ed41b38f2db956508c610ec5#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a64f992b9cdd45519de054f96f72991a)  
 - [2026-03-20-淘天集团2027届实习生招聘正式启动，文末阅读原文查看详情](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543062&idx=1&sn=d453e985ad6644093c56b572c267209c&chksm=8390dbceb4e752d8e6ef8d405f12d66c6edb05bf83e4aa0d085b78794ff60f6fb4340c3e71ff#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=992c3c1c2fc9e37948813e7e28c2ef1a)  
+- [2026-03-20-请查收！淘天集团27届实习生校招大事件，文末阅读原文报名宣讲会](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543062&idx=2&sn=f51acd46793fdb53f4a6a998ad935311&chksm=8390dbceb4e752d8f6f15f2c6142ec0c1f56922602b252327390ed41b38f2db956508c610ec5#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a64f992b9cdd45519de054f96f72991a)  
 - [2026-03-18-AI-Coding前端实践后的复盘总结](http://mp.weixin.qq.com/s/CqYqbE0HdL7GzLGe_vbMmA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=50bab1a2ffce0d9bee59f3398a642b69)  
-- [2026-03-16-软件为何越做越乱？万字长文讲透软件的“复杂性”](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543011&idx=1&sn=0e7c2b240306fdf1cd61c79b717845a7&chksm=8390dbbbb4e752ad7217c16a822a053d02da8c68bb6b3fded5ed9411b7607e352f509b180475#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1734e0eba7ecfabfcf1d915cdf3fe717)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -339,7 +339,7 @@
 </summary>
 
 
-- [2026-04-10-科技爱好者周刊（第-392-期）：axios-投毒与好莱坞式骗术](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e2ccc12b94e830cb0bfccfa4ea562670)  ![](/assets/new.png) 
+- [2026-04-10-科技爱好者周刊（第-392-期）：axios-投毒与好莱坞式骗术](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e2ccc12b94e830cb0bfccfa4ea562670)  
 - [2026-04-03-科技爱好者周刊（第-391-期）：AI-的贫富分化](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d84ac0a58d1188959ec6e9608c9b063)  
 - [2026-03-27-科技爱好者周刊（第-390-期）：没有语料，大模型就是智障](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-390.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=073df49de2977e08665689ac04a543d0)  
 - [2026-03-21-套壳中国大模型撑起500亿美元估值？扒一扒-Cursor-的"套壳"疑云](http://www.ruanyifeng.com/blog/2026/03/kimi-cursor.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d1e28186cf9550731b0af785cbcf89ba)  
