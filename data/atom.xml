@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-10T22:25:03.546Z</updated>
+    <updated>2026-04-11T20:19:52.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Node.js 25.9.0 发布：终于可以用环境变量控制堆内存了]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523210&amp;idx=1&amp;sn=9489af7dfb7abef3b1d3303fd599c8e8&amp;chksm=e80fd4c4df785dd2234a2798a82f17e17238a990dce02ea3731683ec34e78aefed196da0067c#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523210&amp;idx=1&amp;sn=9489af7dfb7abef3b1d3303fd599c8e8&amp;chksm=e80fd4c4df785dd2234a2798a82f17e17238a990dce02ea3731683ec34e78aefed196da0067c#rd"/>
+        <updated>2026-04-11T00:00:00.000Z</updated>
+        <published>2026-04-11T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic 让 Opus 给 Sonnet 当军师：跑分涨了 2.7%，成本还降了 12%]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523209&amp;idx=1&amp;sn=2a157282dd9685675633be9c77cc610f&amp;chksm=e80fd4c7df785dd1cfc9cf920929c3e2cd12fbaab173bb0c33f8ebd0f8ec6f821f383b978cab#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523209&amp;idx=1&amp;sn=2a157282dd9685675633be9c77cc610f&amp;chksm=e80fd4c7df785dd1cfc9cf920929c3e2cd12fbaab173bb0c33f8ebd0f8ec6f821f383b978cab#rd"/>
+        <updated>2026-04-10T00:00:00.000Z</updated>
+        <published>2026-04-10T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 392 期）：axios 投毒与好莱坞式骗术]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html</id>
@@ -43,6 +57,13 @@
         <published>2026-04-10T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Anthropic 不只卖模型了！Claude Managed Agents 发布，Agent 即服务时代来了]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523200&amp;idx=1&amp;sn=f1b91a6cf2fc13001b47176cd7635a7e&amp;chksm=e80fd4cedf785dd8d6a606d5825e3bbe66efb4bc13d54e6c56ba6e3de259707e8143ca815fb4#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523200&amp;idx=1&amp;sn=f1b91a6cf2fc13001b47176cd7635a7e&amp;chksm=e80fd4cedf785dd8d6a606d5825e3bbe66efb4bc13d54e6c56ba6e3de259707e8143ca815fb4#rd"/>
+        <updated>2026-04-09T00:00:00.000Z</updated>
+        <published>2026-04-09T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3681期】拆解编程智能体：让大模型真正会写代码的六大核心组件]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278906&amp;idx=1&amp;sn=18fd9ea1df2c13bdf6d8392d01d2f60d&amp;chksm=bcb36108cef8fb4e5e40a93f9e903c9787d9413400b35104b5ecaabef0bef09f1275b9aada63&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278906&amp;idx=1&amp;sn=18fd9ea1df2c13bdf6d8392d01d2f60d&amp;chksm=bcb36108cef8fb4e5e40a93f9e903c9787d9413400b35104b5ecaabef0bef09f1275b9aada63&amp;scene=0#rd"/>
@@ -55,6 +76,13 @@
         <link href="https://nodeweekly.com/issues/619"/>
         <updated>2026-04-09T00:00:00.000Z</updated>
         <published>2026-04-09T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吊打 Opus 4.6！Anthropic 发布史上最强神级模型，强到不敢公开发布]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523193&amp;idx=1&amp;sn=6fe61a5f80fff1277e8d7bce50f911e5&amp;chksm=e80fd437df785d21d9b0a3441e7312275c7e84cdabd8eb5412d9d0b7f24d31142bc70964c357#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523193&amp;idx=1&amp;sn=6fe61a5f80fff1277e8d7bce50f911e5&amp;chksm=e80fd437df785d21d9b0a3441e7312275c7e84cdabd8eb5412d9d0b7f24d31142bc70964c357#rd"/>
+        <updated>2026-04-08T00:00:00.000Z</updated>
+        <published>2026-04-08T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[告别“伪智能”代码：用 Spec + RAG 打造真正懂你的AI程序员]]></title>
@@ -335,33 +363,5 @@
         <link href="http://mp.weixin.qq.com/s/G3aKbzdGUyD2h1aVjvbr2g"/>
         <updated>2026-03-27T00:00:00.000Z</updated>
         <published>2026-03-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[刚刚，Vite 两个新工具发布！Webpack 完！]]></title>
-        <id>http://mp.weixin.qq.com/s/kRAX2YZ7Kw9r5Wr4j6B_rw</id>
-        <link href="http://mp.weixin.qq.com/s/kRAX2YZ7Kw9r5Wr4j6B_rw"/>
-        <updated>2026-03-27T00:00:00.000Z</updated>
-        <published>2026-03-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[别再纠结格式：5 种设计模式，构建真正可靠的 AI Agent]]></title>
-        <id>http://mp.weixin.qq.com/s/hEBK6mHO5nM5Sm8MWEmQWQ</id>
-        <link href="http://mp.weixin.qq.com/s/hEBK6mHO5nM5Sm8MWEmQWQ"/>
-        <updated>2026-03-27T00:00:00.000Z</updated>
-        <published>2026-03-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3677期】深入解剖 .claude/ 文件夹：Claude Code 的隐藏控制中枢]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278835&amp;idx=1&amp;sn=4e93359b8c4aeb263947a58a0f553a5f&amp;chksm=bc966b89a5b88230ddb95df5a6b7b47bf4c11c0920c45a733e4ea67d57f1734a4e464010cbf4&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278835&amp;idx=1&amp;sn=4e93359b8c4aeb263947a58a0f553a5f&amp;chksm=bc966b89a5b88230ddb95df5a6b7b47bf4c11c0920c45a733e4ea67d57f1734a4e464010cbf4&amp;scene=0#rd"/>
-        <updated>2026-03-27T00:00:00.000Z</updated>
-        <published>2026-03-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个 19000 行的 PR 引爆了 Node.js 社区，集体请愿禁止 AI 代码]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523079&amp;idx=1&amp;sn=e80d92be76cdc8f2f96138d009218278&amp;chksm=e80fd449df785d5fefd16cd89ae6ec64c327e43844f7b714d366549ad0625d0c6b369f42575a#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523079&amp;idx=1&amp;sn=e80d92be76cdc8f2f96138d009218278&amp;chksm=e80fd449df785d5fefd16cd89ae6ec64c327e43844f7b714d366549ad0625d0c6b369f42575a#rd"/>
-        <updated>2026-03-26T00:00:00.000Z</updated>
-        <published>2026-03-26T00:00:00.000Z</published>
     </entry>
 </feed>
