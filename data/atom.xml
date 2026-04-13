@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-13T01:21:40.243Z</updated>
+    <updated>2026-04-13T04:48:54.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,34 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Shopify 把后台读写权限开放给 AI Agent 了，Claude Code 现在可以直接操作你的店铺！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523221&amp;idx=1&amp;sn=5e47abd84897e1cab461cb9a0668a90d&amp;chksm=e80fd4dbdf785dcd9e64124c6418319ddddd504e0ebd09b6a3b7c1eb715b68920a15527e761a#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523221&amp;idx=1&amp;sn=5e47abd84897e1cab461cb9a0668a90d&amp;chksm=e80fd4dbdf785dcd9e64124c6418319ddddd504e0ebd09b6a3b7c1eb715b68920a15527e761a#rd"/>
+        <updated>2026-04-13T00:00:00.000Z</updated>
+        <published>2026-04-13T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI困境：一个程序员的困境与觉醒]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517571&amp;idx=1&amp;sn=adc1c6d506b250e10f023cd5a05894e5&amp;chksm=eb07bdfadc7034ec67dab203cde244f454d73a3686ce40cb13994a04b53d29a94f673284438d#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517571&amp;idx=1&amp;sn=adc1c6d506b250e10f023cd5a05894e5&amp;chksm=eb07bdfadc7034ec67dab203cde244f454d73a3686ce40cb13994a04b53d29a94f673284438d#rd"/>
+        <updated>2026-04-13T00:00:00.000Z</updated>
+        <published>2026-04-13T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3683期】从被动补全到主动编排：用技能架构驾驭AI编程助手]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278916&amp;idx=1&amp;sn=7ff277a43cd9c3a0bf9c575159257c5b&amp;chksm=bcee0aff16672f1494a35509b09ab65c050f98df8a8b20abdaea4a46662ba0c35d3a437cba5d&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278916&amp;idx=1&amp;sn=7ff277a43cd9c3a0bf9c575159257c5b&amp;chksm=bcee0aff16672f1494a35509b09ab65c050f98df8a8b20abdaea4a46662ba0c35d3a437cba5d&amp;scene=0#rd"/>
+        <updated>2026-04-13T00:00:00.000Z</updated>
+        <published>2026-04-13T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[刚搞懂 Prompt/Context 工程，才发现圈里已经不聊这个了]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523216&amp;idx=1&amp;sn=631cb098a0c15e53291337404792e98d&amp;chksm=e80fd4dedf785dc8b9be870476680687c9ad9c55effb9e007ae6373e144cdba62f32c74a74ab#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523216&amp;idx=1&amp;sn=631cb098a0c15e53291337404792e98d&amp;chksm=e80fd4dedf785dc8b9be870476680687c9ad9c55effb9e007ae6373e144cdba62f32c74a74ab#rd"/>
+        <updated>2026-04-12T00:00:00.000Z</updated>
+        <published>2026-04-12T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Node.js 25.9.0 发布：终于可以用环境变量控制堆内存了]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523210&amp;idx=1&amp;sn=9489af7dfb7abef3b1d3303fd599c8e8&amp;chksm=e80fd4c4df785dd2234a2798a82f17e17238a990dce02ea3731683ec34e78aefed196da0067c#rd</id>
@@ -335,33 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517562&amp;idx=1&amp;sn=b173e453dec75217a35c0a9012ed65a7&amp;chksm=eb07bd03dc703415615de2a6c9e1f7d226d052e2846f87d96a2f3e7e5305874f3dd0caf08388#rd"/>
         <updated>2026-03-30T00:00:00.000Z</updated>
         <published>2026-03-30T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[嘿，OpenClaw 实战指南来了！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529618&amp;idx=1&amp;sn=e91261b0e90c4a0a5615d1b62c4db871&amp;chksm=f9927243cee5fb55b81bae193418261cac2de108ff4922a1f956cfc2973f7e04edfa4bd7ff40#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529618&amp;idx=1&amp;sn=e91261b0e90c4a0a5615d1b62c4db871&amp;chksm=f9927243cee5fb55b81bae193418261cac2de108ff4922a1f956cfc2973f7e04edfa4bd7ff40#rd"/>
-        <updated>2026-03-30T00:00:00.000Z</updated>
-        <published>2026-03-30T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenClaw 3.28上线！4天爆更上百项重要更新]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624284&amp;idx=1&amp;sn=b9fefd90b5c387d6b3318fe428938918&amp;chksm=8022449db755cd8bb0e0b411950d7c952651614c98126a22035adf2c82c151005cf03fdc55e5#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624284&amp;idx=1&amp;sn=b9fefd90b5c387d6b3318fe428938918&amp;chksm=8022449db755cd8bb0e0b411950d7c952651614c98126a22035adf2c82c151005cf03fdc55e5#rd"/>
-        <updated>2026-03-30T00:00:00.000Z</updated>
-        <published>2026-03-30T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早说】用Karpathy的自动研究法，让Claude技能全自动进化]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278841&amp;idx=1&amp;sn=e762bc54b4bbb5b0241fb21e4c55724c&amp;chksm=bc9f23e7052140459dd76fc264be79a0da4e99560e7558995a0a3f74e6bae80db75c12d16599&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278841&amp;idx=1&amp;sn=e762bc54b4bbb5b0241fb21e4c55724c&amp;chksm=bc9f23e7052140459dd76fc264be79a0da4e99560e7558995a0a3f74e6bae80db75c12d16599&amp;scene=0#rd"/>
-        <updated>2026-03-30T00:00:00.000Z</updated>
-        <published>2026-03-30T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next.js 不写给人类了？新版本的四个改动，全是给 AI Agent 准备的]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523085&amp;idx=1&amp;sn=ea65083747c5e02cb075955ff60794a5&amp;chksm=e80fd443df785d557c1c665080169b63a803afdfe3974a2b2a91305d0e81a25f2ef873f3372c#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523085&amp;idx=1&amp;sn=ea65083747c5e02cb075955ff60794a5&amp;chksm=e80fd443df785d557c1c665080169b63a803afdfe3974a2b2a91305d0e81a25f2ef873f3372c#rd"/>
-        <updated>2026-03-28T00:00:00.000Z</updated>
-        <published>2026-03-28T00:00:00.000Z</published>
     </entry>
 </feed>
