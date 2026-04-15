@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-15T10:52:00.301Z</updated>
+    <updated>2026-04-15T14:59:13.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[刚刚，Cursor被扒底裤！Claude Code套壳实锤，500亿估值全靠Ctrl+H？]]></title>
+        <id>http://mp.weixin.qq.com/s/HxMbpBXLEFhSYnW8vwnclw</id>
+        <link href="http://mp.weixin.qq.com/s/HxMbpBXLEFhSYnW8vwnclw"/>
+        <updated>2026-04-15T00:00:00.000Z</updated>
+        <published>2026-04-15T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【早说】命令行才是AI工具的未来]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278926&amp;idx=1&amp;sn=97ebb35375d3f1640fa2fc8b52f51a02&amp;chksm=bc29f0cfeafcfffd7a53a75da1b7907281838576495ae44ee58cedb19d031b3096b16c653ae8&amp;scene=0#rd</id>
@@ -60,6 +67,13 @@
         <title type="html"><![CDATA[AI困境：一个程序员的困境与觉醒]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517571&amp;idx=1&amp;sn=adc1c6d506b250e10f023cd5a05894e5&amp;chksm=eb07bdfadc7034ec67dab203cde244f454d73a3686ce40cb13994a04b53d29a94f673284438d#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517571&amp;idx=1&amp;sn=adc1c6d506b250e10f023cd5a05894e5&amp;chksm=eb07bdfadc7034ec67dab203cde244f454d73a3686ce40cb13994a04b53d29a94f673284438d#rd"/>
+        <updated>2026-04-13T00:00:00.000Z</updated>
+        <published>2026-04-13T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我用Claude Code搭了个四个AI的团队，居然真的能协作开发]]></title>
+        <id>http://mp.weixin.qq.com/s/YS-T29rlou-KMkXNs6Zpzg</id>
+        <link href="http://mp.weixin.qq.com/s/YS-T29rlou-KMkXNs6Zpzg"/>
         <updated>2026-04-13T00:00:00.000Z</updated>
         <published>2026-04-13T00:00:00.000Z</published>
     </entry>
@@ -337,20 +351,6 @@
         <published>2026-03-31T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Node.js核心成员请愿：项目里应禁止AI辅助开发]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624290&amp;idx=1&amp;sn=666bae099de90637678d7f9bf9774341&amp;chksm=802244a3b755cdb5ee6d01f08e7d8ff082b8a7fdf5cc4e5eb902c29b0d448474d415767e3b83#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624290&amp;idx=1&amp;sn=666bae099de90637678d7f9bf9774341&amp;chksm=802244a3b755cdb5ee6d01f08e7d8ff082b8a7fdf5cc4e5eb902c29b0d448474d415767e3b83#rd"/>
-        <updated>2026-03-31T00:00:00.000Z</updated>
-        <published>2026-03-31T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端圈沸腾！Claude造出15KB引擎，渲染狂飙1200倍：文字里能跑马里奥]]></title>
-        <id>http://mp.weixin.qq.com/s/vlhTJXe8JiHD7si24Kwszw</id>
-        <link href="http://mp.weixin.qq.com/s/vlhTJXe8JiHD7si24Kwszw"/>
-        <updated>2026-03-31T00:00:00.000Z</updated>
-        <published>2026-03-31T00:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Claude Code 意外泄露 51.2万行 TS 核心代码]]></title>
         <id>http://mp.weixin.qq.com/s/fX7ux-Ob1vM4KroYl4a7DA</id>
         <link href="http://mp.weixin.qq.com/s/fX7ux-Ob1vM4KroYl4a7DA"/>
@@ -358,9 +358,9 @@
         <published>2026-03-31T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3678期】JavaScript 解析 VIN 码：三种方案全面对比]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278846&amp;idx=1&amp;sn=0d115156c8935e60b834012164ef7800&amp;chksm=bceeca05c71c678764c030775f4d20f2c35ef6630abbaaf57b63d2cf160ee4dd7aca2ec8b20f&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278846&amp;idx=1&amp;sn=0d115156c8935e60b834012164ef7800&amp;chksm=bceeca05c71c678764c030775f4d20f2c35ef6630abbaaf57b63d2cf160ee4dd7aca2ec8b20f&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[前端圈沸腾！Claude造出15KB引擎，渲染狂飙1200倍：文字里能跑马里奥]]></title>
+        <id>http://mp.weixin.qq.com/s/vlhTJXe8JiHD7si24Kwszw</id>
+        <link href="http://mp.weixin.qq.com/s/vlhTJXe8JiHD7si24Kwszw"/>
         <updated>2026-03-31T00:00:00.000Z</updated>
         <published>2026-03-31T00:00:00.000Z</published>
     </entry>
