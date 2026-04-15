@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-15 12:36:27。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-15 18:52:17。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -41,6 +41,7 @@
 
 
 - [【前端早读课】【早说】命令行才是AI工具的未来](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278926&idx=1&sn=97ebb35375d3f1640fa2fc8b52f51a02&chksm=bc29f0cfeafcfffd7a53a75da1b7907281838576495ae44ee58cedb19d031b3096b16c653ae8&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2a3467f8eeee98d99279861cbda65fa2)
+- [【程序员成长指北】【真诚建议】别让AI替你思考：苏格拉底提示法，把AI变成你的思考搭档](http://mp.weixin.qq.com/s/IWg4ANuFWfb04htxBZlfoA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2cd4e76047dadaa78df319b4f0896c67)
 - [【Nodejs技术栈】Shopify-把后台读写权限开放给-AI-Agent-了，Claude-Code-现在可以直接操作你的店铺！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523221&idx=1&sn=5e47abd84897e1cab461cb9a0668a90d&chksm=e80fd4dbdf785dcd9e64124c6418319ddddd504e0ebd09b6a3b7c1eb715b68920a15527e761a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=61060218891c18088d2ef1a02353f8cd)
 - [【前端从进阶到入院】AI困境：一个程序员的困境与觉醒](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517571&idx=1&sn=adc1c6d506b250e10f023cd5a05894e5&chksm=eb07bdfadc7034ec67dab203cde244f454d73a3686ce40cb13994a04b53d29a94f673284438d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=941426f95403b1b05dd60ff647f181b1)
 - [【前端早读课】【第3683期】从被动补全到主动编排：用技能架构驾驭AI编程助手](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278916&idx=1&sn=7ff277a43cd9c3a0bf9c575159257c5b&chksm=bcee0aff16672f1494a35509b09ab65c050f98df8a8b20abdaea4a46662ba0c35d3a437cba5d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=33164809b0c4ab6052e87bf07acdf4ef)
@@ -49,7 +50,6 @@
 - [【前端从进阶到入院】MIT实锤：AI代码迭代5次，比人类屎山烂2.2倍](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517569&idx=1&sn=aa2ac781d1fda0ba4ff3d97fa6ab84e7&chksm=eb07bdf8dc7034eea31775c77aa6b1ca6449ea8b5b0cfc38659eaead98ecd2a22901214a9f7c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e1b73d48389e6223e86ae6cb2617159e)
 - [【前端早读课】【第3682期】别让AI替你思考：苏格拉底提示法，把AI变成你的思考搭档](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278911&idx=1&sn=67a81a5373518b0b343ace3ffc8790e8&chksm=bc75ab09a7c6da60183ab9bc7589bec9cadd9efcb09c5ce8826635a8e22d0504faf7aeeef383&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4167328630922ea01a25b7d6ed613d3a)
 - [【Nodejs技术栈】Anthropic-不只卖模型了！Claude-Managed-Agents-发布，Agent-即服务时代来了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523200&idx=1&sn=f1b91a6cf2fc13001b47176cd7635a7e&chksm=e80fd4cedf785dd8d6a606d5825e3bbe66efb4bc13d54e6c56ba6e3de259707e8143ca815fb4#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9f2c9ea580079d392ad3f1adc9a378d5)
-- [【淘系前端团队】告别“伪智能”代码：用-Spec-+-RAG-打造真正懂你的AI程序员](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543163&idx=1&sn=ba3f6f1eef51ddf354828fed2aa622c3&chksm=8390dc23b4e75535288e5e3b653f7e97806e3ad67efd9fa7f9640b6a7d802427c0389f949997#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cd84b00f47546e7489ac2961ace67865)
 - [查看更多 >](/details/tags/ai.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -585,6 +585,7 @@
 
 
 - [【前端早读课】【早说】命令行才是AI工具的未来](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278926&idx=1&sn=97ebb35375d3f1640fa2fc8b52f51a02&chksm=bc29f0cfeafcfffd7a53a75da1b7907281838576495ae44ee58cedb19d031b3096b16c653ae8&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2a3467f8eeee98d99279861cbda65fa2)
+- [【程序员成长指北】【真诚建议】别让AI替你思考：苏格拉底提示法，把AI变成你的思考搭档](http://mp.weixin.qq.com/s/IWg4ANuFWfb04htxBZlfoA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2cd4e76047dadaa78df319b4f0896c67)
 - [【前端早读课】【第3684期】最低发布时限：最简单却最有效的供应链防线](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278921&idx=1&sn=7f1d2bb7758618ecb95ec9685440242b&chksm=bc113861189c53cace2dd2ae0a2bb83de8ec903f1e6d200fba6bc82280e802f2b658d669ff6d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f604b027cf257574964772f8b9a4fb1b)
 - [【JavaScript-Weekly】MDN-ditches-React-for-web-components-in-frontend-rebuild](https://javascriptweekly.com/issues/781)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b840a6adba863fcd1146306453fc4314)
 - [【Nodejs技术栈】Shopify-把后台读写权限开放给-AI-Agent-了，Claude-Code-现在可以直接操作你的店铺！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523221&idx=1&sn=5e47abd84897e1cab461cb9a0668a90d&chksm=e80fd4dbdf785dcd9e64124c6418319ddddd504e0ebd09b6a3b7c1eb715b68920a15527e761a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=61060218891c18088d2ef1a02353f8cd)
@@ -593,7 +594,6 @@
 - [【前端早读课】【第3683期】从被动补全到主动编排：用技能架构驾驭AI编程助手](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278916&idx=1&sn=7ff277a43cd9c3a0bf9c575159257c5b&chksm=bcee0aff16672f1494a35509b09ab65c050f98df8a8b20abdaea4a46662ba0c35d3a437cba5d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=33164809b0c4ab6052e87bf07acdf4ef)
 - [【Nodejs技术栈】刚搞懂-Prompt/Context-工程，才发现圈里已经不聊这个了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523216&idx=1&sn=631cb098a0c15e53291337404792e98d&chksm=e80fd4dedf785dc8b9be870476680687c9ad9c55effb9e007ae6373e144cdba62f32c74a74ab#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6fc28c1daa22ddafcf7a4c2694fdb2b2)
 - [【Nodejs技术栈】Node.js-25.9.0-发布：终于可以用环境变量控制堆内存了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523210&idx=1&sn=9489af7dfb7abef3b1d3303fd599c8e8&chksm=e80fd4c4df785dd2234a2798a82f17e17238a990dce02ea3731683ec34e78aefed196da0067c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4bbf8737c0d2b7d5f98c70bfec2423a7)
-- [【Nodejs技术栈】Anthropic-让-Opus-给-Sonnet-当军师：跑分涨了-2.7%，成本还降了-12%](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523209&idx=1&sn=2a157282dd9685675633be9c77cc610f&chksm=e80fd4c7df785dd1cfc9cf920929c3e2cd12fbaab173bb0c33f8ebd0f8ec6f821f383b978cab#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e8ba72344bc2de71cae6d5b1acf8028c)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
