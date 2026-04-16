@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-15T14:59:13.440Z</updated>
+    <updated>2026-04-16T04:43:08.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3685期】给 Codex 最好用的工具，是量身定制的命令行]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278934&amp;idx=1&amp;sn=a985f6989509cf91e418e69b5a8a9678&amp;chksm=bc1909f16fe74b4917ee059142ded9da308f7fcbc88ffcbd9efe2d337afe73ecd5f866b3a47e&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278934&amp;idx=1&amp;sn=a985f6989509cf91e418e69b5a8a9678&amp;chksm=bc1909f16fe74b4917ee059142ded9da308f7fcbc88ffcbd9efe2d337afe73ecd5f866b3a47e&amp;scene=0#rd"/>
+        <updated>2026-04-16T00:00:00.000Z</updated>
+        <published>2026-04-16T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[刚刚，Cursor被扒底裤！Claude Code套壳实锤，500亿估值全靠Ctrl+H？]]></title>
         <id>http://mp.weixin.qq.com/s/HxMbpBXLEFhSYnW8vwnclw</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Claude Code 意外泄露 51.2万行 TS 核心代码]]></title>
         <id>http://mp.weixin.qq.com/s/fX7ux-Ob1vM4KroYl4a7DA</id>
         <link href="http://mp.weixin.qq.com/s/fX7ux-Ob1vM4KroYl4a7DA"/>
-        <updated>2026-03-31T00:00:00.000Z</updated>
-        <published>2026-03-31T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端圈沸腾！Claude造出15KB引擎，渲染狂飙1200倍：文字里能跑马里奥]]></title>
-        <id>http://mp.weixin.qq.com/s/vlhTJXe8JiHD7si24Kwszw</id>
-        <link href="http://mp.weixin.qq.com/s/vlhTJXe8JiHD7si24Kwszw"/>
         <updated>2026-03-31T00:00:00.000Z</updated>
         <published>2026-03-31T00:00:00.000Z</published>
     </entry>
