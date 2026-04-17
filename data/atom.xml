@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-17T09:07:39.143Z</updated>
+    <updated>2026-04-17T18:41:00.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Claude Opus 4.7 正式发布，编程能力大幅提升，创始人已经不看代码过程了！]]></title>
+        <id>http://mp.weixin.qq.com/s/q1CPMB5PBRUZqamg37Yrmg</id>
+        <link href="http://mp.weixin.qq.com/s/q1CPMB5PBRUZqamg37Yrmg"/>
+        <updated>2026-04-17T00:00:00.000Z</updated>
+        <published>2026-04-17T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[借助mediabunny纯JS实现视频水印、剪裁、合成等功能]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/04/mediabunny-video-water-clip-merge/</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278851&amp;idx=1&amp;sn=345f03042da9e8e147067ba61f53d100&amp;chksm=bcc60dfe4387d045b658feb6d099daafe18623fc66183e42aa721ad37cfa667b479c1b68a077&amp;scene=0#rd"/>
         <updated>2026-04-01T00:00:00.000Z</updated>
         <published>2026-04-01T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[干不过就加入！OpenAI 把 Codex 搞成插件塞进了 Claude Code]]></title>
-        <id>http://mp.weixin.qq.com/s/w-5jGIW9r-i4DZsZ7687Iw</id>
-        <link href="http://mp.weixin.qq.com/s/w-5jGIW9r-i4DZsZ7687Iw"/>
-        <updated>2026-03-31T00:00:00.000Z</updated>
-        <published>2026-03-31T00:00:00.000Z</published>
     </entry>
 </feed>
