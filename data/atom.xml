@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-17T04:39:40.217Z</updated>
+    <updated>2026-04-17T09:07:39.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[借助mediabunny纯JS实现视频水印、剪裁、合成等功能]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/04/mediabunny-video-water-clip-merge/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/04/mediabunny-video-water-clip-merge/"/>
+        <updated>2026-04-17T00:00:00.000Z</updated>
+        <published>2026-04-17T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3686期】从 Node.js 到 Bun：一次 5 倍吞吐量跃迁的全程实录]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278944&amp;idx=1&amp;sn=bd4a7e4187c77a8f821007ae28b8ec88&amp;chksm=bc5acc588c9576f5b68fc96ae5022d7dfaccbdb84ead33c4a6dcc0fb7240424244d38b1ab3e7&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[干不过就加入！OpenAI 把 Codex 搞成插件塞进了 Claude Code]]></title>
         <id>http://mp.weixin.qq.com/s/w-5jGIW9r-i4DZsZ7687Iw</id>
         <link href="http://mp.weixin.qq.com/s/w-5jGIW9r-i4DZsZ7687Iw"/>
-        <updated>2026-03-31T00:00:00.000Z</updated>
-        <published>2026-03-31T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pretext：前端文本布局的下一个范式转变]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517564&amp;idx=1&amp;sn=2cd94053d488764d59c532d486d3ad2c&amp;chksm=eb07bd05dc703413e05333028b748e1e4f0f3624682de5898deba9a50dfd447c806fc0451991#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517564&amp;idx=1&amp;sn=2cd94053d488764d59c532d486d3ad2c&amp;chksm=eb07bd05dc703413e05333028b748e1e4f0f3624682de5898deba9a50dfd447c806fc0451991#rd"/>
         <updated>2026-03-31T00:00:00.000Z</updated>
         <published>2026-03-31T00:00:00.000Z</published>
     </entry>
