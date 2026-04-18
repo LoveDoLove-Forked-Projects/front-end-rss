@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-18T01:13:33.215Z</updated>
+    <updated>2026-04-18T06:55:06.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -34,6 +34,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278944&amp;idx=1&amp;sn=bd4a7e4187c77a8f821007ae28b8ec88&amp;chksm=bc5acc588c9576f5b68fc96ae5022d7dfaccbdb84ead33c4a6dcc0fb7240424244d38b1ab3e7&amp;scene=0#rd"/>
         <updated>2026-04-17T00:00:00.000Z</updated>
         <published>2026-04-17T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[请停止过度设计：浏览器已经解决了这 8 个问题]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517575&amp;idx=1&amp;sn=20f90cd8662c443a56a455b951b56773&amp;chksm=eb07bdfedc7034e8cbd0a4087d19390f22571318bc87646f4891cf03db693771c079a0d35b79#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517575&amp;idx=1&amp;sn=20f90cd8662c443a56a455b951b56773&amp;chksm=eb07bdfedc7034e8cbd0a4087d19390f22571318bc87646f4891cf03db693771c079a0d35b79#rd"/>
+        <updated>2026-04-16T00:00:00.000Z</updated>
+        <published>2026-04-16T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[突发：Claude引入强实名制验证！必须真人手持证件自拍，否则直接封号！]]></title>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[LangGraph：基于图的 AI Agent 编排框架深度解析]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529639&amp;idx=1&amp;sn=325db2a072d5d2f17c7d84734ca0683a&amp;chksm=f9927276cee5fb60652b3ddc219a4b464b07ab5c86df4eb4486fce3b6a47e8fd6b57dd8a4469#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529639&amp;idx=1&amp;sn=325db2a072d5d2f17c7d84734ca0683a&amp;chksm=f9927276cee5fb60652b3ddc219a4b464b07ab5c86df4eb4486fce3b6a47e8fd6b57dd8a4469#rd"/>
-        <updated>2026-04-01T00:00:00.000Z</updated>
-        <published>2026-04-01T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[紧急预警：Axios 供应链被投毒（附排查与紧急补救指南）]]></title>
-        <id>http://mp.weixin.qq.com/s/5clC4GUlYIkzDhd_ROVcpw</id>
-        <link href="http://mp.weixin.qq.com/s/5clC4GUlYIkzDhd_ROVcpw"/>
         <updated>2026-04-01T00:00:00.000Z</updated>
         <published>2026-04-01T00:00:00.000Z</published>
     </entry>
