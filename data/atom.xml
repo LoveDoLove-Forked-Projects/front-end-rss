@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-18T06:55:06.573Z</updated>
+    <updated>2026-04-19T07:05:00.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -76,6 +76,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278926&amp;idx=1&amp;sn=97ebb35375d3f1640fa2fc8b52f51a02&amp;chksm=bc29f0cfeafcfffd7a53a75da1b7907281838576495ae44ee58cedb19d031b3096b16c653ae8&amp;scene=0#rd"/>
         <updated>2026-04-15T00:00:00.000Z</updated>
         <published>2026-04-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从全量启动到最小核： 手淘外链唤端链路的三次架构演进]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543182&amp;idx=1&amp;sn=f52ba106e3ecb3a514faa80f0ca4e607&amp;chksm=8390dc56b4e7554013a81c8d23caab46287b404cdce8ba42a0962dddacde74790740657ece40#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543182&amp;idx=1&amp;sn=f52ba106e3ecb3a514faa80f0ca4e607&amp;chksm=8390dc56b4e7554013a81c8d23caab46287b404cdce8ba42a0962dddacde74790740657ece40#rd"/>
+        <updated>2026-04-14T00:00:00.000Z</updated>
+        <published>2026-04-14T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【真诚建议】别让AI替你思考：苏格拉底提示法，把AI变成你的思考搭档]]></title>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[紧急！Axios 被投毒，3亿项目受到影响！教你怎么自查！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517566&amp;idx=1&amp;sn=92989a760237d4a09b0b767c33b0406b&amp;chksm=eb07bd07dc70341109910e6c0ad1e3a0b21e242f24b400cd18655b6ae5cf1ab66d70c1a93365#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517566&amp;idx=1&amp;sn=92989a760237d4a09b0b767c33b0406b&amp;chksm=eb07bd07dc70341109910e6c0ad1e3a0b21e242f24b400cd18655b6ae5cf1ab66d70c1a93365#rd"/>
-        <updated>2026-04-01T00:00:00.000Z</updated>
-        <published>2026-04-01T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LangGraph：基于图的 AI Agent 编排框架深度解析]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529639&amp;idx=1&amp;sn=325db2a072d5d2f17c7d84734ca0683a&amp;chksm=f9927276cee5fb60652b3ddc219a4b464b07ab5c86df4eb4486fce3b6a47e8fd6b57dd8a4469#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529639&amp;idx=1&amp;sn=325db2a072d5d2f17c7d84734ca0683a&amp;chksm=f9927276cee5fb60652b3ddc219a4b464b07ab5c86df4eb4486fce3b6a47e8fd6b57dd8a4469#rd"/>
         <updated>2026-04-01T00:00:00.000Z</updated>
         <published>2026-04-01T00:00:00.000Z</published>
     </entry>

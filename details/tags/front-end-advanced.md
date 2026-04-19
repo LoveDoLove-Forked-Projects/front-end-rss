@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-18 14:55:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-19 15:06:07。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶
 
@@ -9,6 +9,7 @@
 
 - [2026-04-17-Claude-Opus-4.7-正式发布，编程能力大幅提升，创始人已经不看代码过程了！](http://mp.weixin.qq.com/s/q1CPMB5PBRUZqamg37Yrmg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ad3858468ee9f31d3bd7267f2b7815cf) 
 - [2026-04-17-借助mediabunny纯JS实现视频水印、剪裁、合成等功能](https://www.zhangxinxu.com/wordpress/2026/04/mediabunny-video-water-clip-merge/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0e724a72a01be2caaa738a09a8f4c56d) 
+- [2026-04-14-从全量启动到最小核：-手淘外链唤端链路的三次架构演进](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543182&idx=1&sn=f52ba106e3ecb3a514faa80f0ca4e607&chksm=8390dc56b4e7554013a81c8d23caab46287b404cdce8ba42a0962dddacde74790740657ece40#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7ad7f40968e74971a8466908b8d687e7) 
 - [2026-04-14-【第3684期】最低发布时限：最简单却最有效的供应链防线](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278921&idx=1&sn=7f1d2bb7758618ecb95ec9685440242b&chksm=bc113861189c53cace2dd2ae0a2bb83de8ec903f1e6d200fba6bc82280e802f2b658d669ff6d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f604b027cf257574964772f8b9a4fb1b) 
 - [2026-04-13-【第3683期】从被动补全到主动编排：用技能架构驾驭AI编程助手](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278916&idx=1&sn=7ff277a43cd9c3a0bf9c575159257c5b&chksm=bcee0aff16672f1494a35509b09ab65c050f98df8a8b20abdaea4a46662ba0c35d3a437cba5d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=33164809b0c4ab6052e87bf07acdf4ef) 
 - [2026-04-11-Node.js-25.9.0-发布：终于可以用环境变量控制堆内存了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523210&idx=1&sn=9489af7dfb7abef3b1d3303fd599c8e8&chksm=e80fd4c4df785dd2234a2798a82f17e17238a990dce02ea3731683ec34e78aefed196da0067c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4bbf8737c0d2b7d5f98c70bfec2423a7) 

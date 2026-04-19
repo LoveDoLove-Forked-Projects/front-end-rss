@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-18 14:55:26。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-19 15:06:07。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -484,6 +484,7 @@
 
 - [【Nodejs技术栈】Claude-Opus-4.7-正式发布，编程能力大幅提升，创始人已经不看代码过程了！](http://mp.weixin.qq.com/s/q1CPMB5PBRUZqamg37Yrmg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ad3858468ee9f31d3bd7267f2b7815cf)
 - [【张鑫旭-鑫空间-鑫生活】借助mediabunny纯JS实现视频水印、剪裁、合成等功能](https://www.zhangxinxu.com/wordpress/2026/04/mediabunny-video-water-clip-merge/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0e724a72a01be2caaa738a09a8f4c56d)
+- [【淘系前端团队】从全量启动到最小核：-手淘外链唤端链路的三次架构演进](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543182&idx=1&sn=f52ba106e3ecb3a514faa80f0ca4e607&chksm=8390dc56b4e7554013a81c8d23caab46287b404cdce8ba42a0962dddacde74790740657ece40#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7ad7f40968e74971a8466908b8d687e7)
 - [【前端早读课】【第3684期】最低发布时限：最简单却最有效的供应链防线](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278921&idx=1&sn=7f1d2bb7758618ecb95ec9685440242b&chksm=bc113861189c53cace2dd2ae0a2bb83de8ec903f1e6d200fba6bc82280e802f2b658d669ff6d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f604b027cf257574964772f8b9a4fb1b)
 - [【前端早读课】【第3683期】从被动补全到主动编排：用技能架构驾驭AI编程助手](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278916&idx=1&sn=7ff277a43cd9c3a0bf9c575159257c5b&chksm=bcee0aff16672f1494a35509b09ab65c050f98df8a8b20abdaea4a46662ba0c35d3a437cba5d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=33164809b0c4ab6052e87bf07acdf4ef)
 - [【Nodejs技术栈】Node.js-25.9.0-发布：终于可以用环境变量控制堆内存了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523210&idx=1&sn=9489af7dfb7abef3b1d3303fd599c8e8&chksm=e80fd4c4df785dd2234a2798a82f17e17238a990dce02ea3731683ec34e78aefed196da0067c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4bbf8737c0d2b7d5f98c70bfec2423a7)
@@ -491,7 +492,6 @@
 - [【Nodejs技术栈】吊打-Opus-4.6！Anthropic-发布史上最强神级模型，强到不敢公开发布](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523193&idx=1&sn=6fe61a5f80fff1277e8d7bce50f911e5&chksm=e80fd437df785d21d9b0a3441e7312275c7e84cdabd8eb5412d9d0b7f24d31142bc70964c357#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b1f937fe5d31d2fb8825872bd59ff818)
 - [【张鑫旭-鑫空间-鑫生活】CSS六边形头像的实现与蜂巢布局](https://www.zhangxinxu.com/wordpress/2026/04/css-pyramidal-grid/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2d8c3aaf3f424b639a6bbbf6c48cff1c)
 - [【JavaScript-Weekly】What-to-know-about-JavaScript-in-2026](https://javascriptweekly.com/issues/780)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=aafd5aee5b247137a4ebb770a7324a8f)
-- [【Nodejs技术栈】Transformers-V4-最新发布！浏览器也能跑-AI-模型了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523174&idx=1&sn=82b09e889c9396fff27872199625bd53&chksm=e80fd428df785d3ef17de4e12dcfe3af28d5f74b08027e45e001f3789e3d458ce19cca1807bb#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d4299a0ef4e44c51325e89adf451db4d)
 - [查看更多 >](/details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -587,13 +587,13 @@
 - [【Nodejs技术栈】Claude-Opus-4.7-正式发布，编程能力大幅提升，创始人已经不看代码过程了！](http://mp.weixin.qq.com/s/q1CPMB5PBRUZqamg37Yrmg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ad3858468ee9f31d3bd7267f2b7815cf)
 - [【阮一峰的网络日志】科技爱好者周刊（第-393-期）：脑腐状态](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-393.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9b0110d99961c84881432c06e5d6e835)
 - [【张鑫旭-鑫空间-鑫生活】借助mediabunny纯JS实现视频水印、剪裁、合成等功能](https://www.zhangxinxu.com/wordpress/2026/04/mediabunny-video-water-clip-merge/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0e724a72a01be2caaa738a09a8f4c56d)
+- [【淘系前端团队】卡片式对话的协议方案探索和思考](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543235&idx=1&sn=a7fee9a41d18ec154d103c6fc053651b&chksm=8390dc9bb4e7558d8195b636e20884edf67b9799890299a3e4f56744425786447c831f72d402#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fbee3ad20de30d56f222edd2718d1c80)
 - [【前端早读课】【第3686期】从-Node.js-到-Bun：一次-5-倍吞吐量跃迁的全程实录](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278944&idx=1&sn=bd4a7e4187c77a8f821007ae28b8ec88&chksm=bc5acc588c9576f5b68fc96ae5022d7dfaccbdb84ead33c4a6dcc0fb7240424244d38b1ab3e7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8531524e9b2ad8bf77d6c3954726cdab)
 - [【前端从进阶到入院】请停止过度设计：浏览器已经解决了这-8-个问题](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517575&idx=1&sn=20f90cd8662c443a56a455b951b56773&chksm=eb07bdfedc7034e8cbd0a4087d19390f22571318bc87646f4891cf03db693771c079a0d35b79#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=787017ae7225b2bf87ef99a582cc66d1)
 - [【前端大全】突发：Claude引入强实名制验证！必须真人手持证件自拍，否则直接封号！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624380&idx=1&sn=a5fe535833e41db9510c4c17e4da1f68&chksm=8022447db755cd6b5034551bd0874e272c36d0d8c13c3ea61fd9ad66d9593ad9b7cd2a2d511b#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3d397432dcd5c2a6f44acf984c2f6701)
 - [【前端早读课】【第3685期】给-Codex-最好用的工具，是量身定制的命令行](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278934&idx=1&sn=a985f6989509cf91e418e69b5a8a9678&chksm=bc1909f16fe74b4917ee059142ded9da308f7fcbc88ffcbd9efe2d337afe73ecd5f866b3a47e&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b97b6a9d7535a956efced27db1d3d224)
 - [【Node-Weekly】Node-moves-toward-Temporal-by-default](https://nodeweekly.com/issues/620)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=dad993ebd7c6a7675b65fc17ca6efefe)
-- [【前端大全】刚刚，Cursor被扒底裤！Claude-Code套壳实锤，500亿估值全靠Ctrl+H？](http://mp.weixin.qq.com/s/HxMbpBXLEFhSYnW8vwnclw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1cdb7507238231d9b49b21d40c87e44d)
-- [【前端早读课】【早说】命令行才是AI工具的未来](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278926&idx=1&sn=97ebb35375d3f1640fa2fc8b52f51a02&chksm=bc29f0cfeafcfffd7a53a75da1b7907281838576495ae44ee58cedb19d031b3096b16c653ae8&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2a3467f8eeee98d99279861cbda65fa2)
+- [【淘系前端团队】淘宝动效解决方案分享](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543221&idx=1&sn=b8923a8b0b7ad01cfcecb3822932d664&chksm=8390dc6db4e7557b609e4e18ba22202a68c7a2115873f72fe1d639c9985370bed42bdf53fa94#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=95ace9daa919cdda6a6e6b03787bdd16)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
