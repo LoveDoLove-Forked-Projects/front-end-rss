@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-20T11:09:49.909Z</updated>
+    <updated>2026-04-20T15:07:39.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[强烈推荐！这个 Skill 画架构图质量超高，一句话出图]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523289&amp;idx=1&amp;sn=806fc13bce3840caf61aac285adf23c8&amp;chksm=e80fd497df785d817499470e08e7f2ae99c7ddd6c9d34c33dcee1ac09dc26b4b4fcb839d01f7#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523289&amp;idx=1&amp;sn=806fc13bce3840caf61aac285adf23c8&amp;chksm=e80fd497df785d817499470e08e7f2ae99c7ddd6c9d34c33dcee1ac09dc26b4b4fcb839d01f7#rd"/>
+        <updated>2026-04-20T00:00:00.000Z</updated>
+        <published>2026-04-20T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最大的 React 性能杀手不就是你？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517577&amp;idx=1&amp;sn=b21e25b3f11ed5d95eecbe987b4c7145&amp;chksm=eb07bdf0dc7034e60bb6aa9b50a75221afea5c5257da28e52baf7a90f51e96e618336e5563e1#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[GitHub Star 暴涨！前 React 核心成员出手，把浏览器 30 年算不好的文字布局问题解决了]]></title>
         <id>http://mp.weixin.qq.com/s/ibVkVGk62j3kCPO_wxBYlg</id>
         <link href="http://mp.weixin.qq.com/s/ibVkVGk62j3kCPO_wxBYlg"/>
-        <updated>2026-04-02T00:00:00.000Z</updated>
-        <published>2026-04-02T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skills 乱麻了！这款开源神器彻底终结噩梦，Cursor/Claude 一键全同步]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529642&amp;idx=1&amp;sn=16005d3929226468a8ee1b8c0ed4c8b6&amp;chksm=f992727bcee5fb6d914cc77966c95fe1545ed7ad4d303da32eade65e5d892b826e4acc3e8b26#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529642&amp;idx=1&amp;sn=16005d3929226468a8ee1b8c0ed4c8b6&amp;chksm=f992727bcee5fb6d914cc77966c95fe1545ed7ad4d303da32eade65e5d892b826e4acc3e8b26#rd"/>
         <updated>2026-04-02T00:00:00.000Z</updated>
         <published>2026-04-02T00:00:00.000Z</published>
     </entry>

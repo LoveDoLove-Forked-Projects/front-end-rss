@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-20 19:10:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-20 23:08:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-04-20-强烈推荐！这个-Skill-画架构图质量超高，一句话出图](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523289&idx=1&sn=806fc13bce3840caf61aac285adf23c8&chksm=e80fd497df785d817499470e08e7f2ae99c7ddd6c9d34c33dcee1ac09dc26b4b4fcb839d01f7#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6f19baa77101658b353d94dbf1e7c856) 
 - [2026-04-18-Skills-Hub-v0.5-发布，终于支持把-Skill-限定在单个项目里用了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523288&idx=1&sn=244e6c45d1046389e2b771e18d5bce9e&chksm=e80fd496df785d80635720e016d7c54d4125fbf7c1a5320d38fe3756a9c7df2b473d64cfa3d2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d299e62ceae3e88224c4335b9a58f9ee) 
 - [2026-04-17-Claude-Opus-4.7-正式发布，编程能力大幅提升，创始人已经不看代码过程了！](http://mp.weixin.qq.com/s/q1CPMB5PBRUZqamg37Yrmg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ad3858468ee9f31d3bd7267f2b7815cf) 
 - [2026-04-17-借助mediabunny纯JS实现视频水印、剪裁、合成等功能](https://www.zhangxinxu.com/wordpress/2026/04/mediabunny-video-water-clip-merge/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0e724a72a01be2caaa738a09a8f4c56d) 

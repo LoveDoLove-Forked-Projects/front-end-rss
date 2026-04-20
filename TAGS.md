@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-20 19:10:13。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-20 23:08:01。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -482,6 +482,7 @@
 
 
 
+- [【Nodejs技术栈】强烈推荐！这个-Skill-画架构图质量超高，一句话出图](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523289&idx=1&sn=806fc13bce3840caf61aac285adf23c8&chksm=e80fd497df785d817499470e08e7f2ae99c7ddd6c9d34c33dcee1ac09dc26b4b4fcb839d01f7#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6f19baa77101658b353d94dbf1e7c856)
 - [【Nodejs技术栈】Skills-Hub-v0.5-发布，终于支持把-Skill-限定在单个项目里用了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523288&idx=1&sn=244e6c45d1046389e2b771e18d5bce9e&chksm=e80fd496df785d80635720e016d7c54d4125fbf7c1a5320d38fe3756a9c7df2b473d64cfa3d2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d299e62ceae3e88224c4335b9a58f9ee)
 - [【Nodejs技术栈】Claude-Opus-4.7-正式发布，编程能力大幅提升，创始人已经不看代码过程了！](http://mp.weixin.qq.com/s/q1CPMB5PBRUZqamg37Yrmg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ad3858468ee9f31d3bd7267f2b7815cf)
 - [【张鑫旭-鑫空间-鑫生活】借助mediabunny纯JS实现视频水印、剪裁、合成等功能](https://www.zhangxinxu.com/wordpress/2026/04/mediabunny-video-water-clip-merge/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0e724a72a01be2caaa738a09a8f4c56d)
@@ -491,7 +492,6 @@
 - [【Nodejs技术栈】Node.js-25.9.0-发布：终于可以用环境变量控制堆内存了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523210&idx=1&sn=9489af7dfb7abef3b1d3303fd599c8e8&chksm=e80fd4c4df785dd2234a2798a82f17e17238a990dce02ea3731683ec34e78aefed196da0067c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4bbf8737c0d2b7d5f98c70bfec2423a7)
 - [【Nodejs技术栈】Anthropic-不只卖模型了！Claude-Managed-Agents-发布，Agent-即服务时代来了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523200&idx=1&sn=f1b91a6cf2fc13001b47176cd7635a7e&chksm=e80fd4cedf785dd8d6a606d5825e3bbe66efb4bc13d54e6c56ba6e3de259707e8143ca815fb4#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9f2c9ea580079d392ad3f1adc9a378d5)
 - [【Nodejs技术栈】吊打-Opus-4.6！Anthropic-发布史上最强神级模型，强到不敢公开发布](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523193&idx=1&sn=6fe61a5f80fff1277e8d7bce50f911e5&chksm=e80fd437df785d21d9b0a3441e7312275c7e84cdabd8eb5412d9d0b7f24d31142bc70964c357#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b1f937fe5d31d2fb8825872bd59ff818)
-- [【张鑫旭-鑫空间-鑫生活】CSS六边形头像的实现与蜂巢布局](https://www.zhangxinxu.com/wordpress/2026/04/css-pyramidal-grid/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2d8c3aaf3f424b639a6bbbf6c48cff1c)
 - [查看更多 >](/details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,6 +584,7 @@
 
 
 
+- [【Nodejs技术栈】强烈推荐！这个-Skill-画架构图质量超高，一句话出图](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523289&idx=1&sn=806fc13bce3840caf61aac285adf23c8&chksm=e80fd497df785d817499470e08e7f2ae99c7ddd6c9d34c33dcee1ac09dc26b4b4fcb839d01f7#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6f19baa77101658b353d94dbf1e7c856)
 - [【前端从进阶到入院】最大的-React-性能杀手不就是你？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517577&idx=1&sn=b21e25b3f11ed5d95eecbe987b4c7145&chksm=eb07bdf0dc7034e60bb6aa9b50a75221afea5c5257da28e52baf7a90f51e96e618336e5563e1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cea80bf34fd35f9c3386390ec4786fe4)
 - [【前端早读课】【早说】编程通缩：当代码一天比一天便宜](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278949&idx=1&sn=c034727235a100638c4bacc52937b7d5&chksm=bcb7ddb38d4c57dede7fe9ab41857cec1ea084ffeed061af17c652e3d6688c25f884e899ff0f&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=11da56c4a59240bcbe8234ecb4b96cbf)
 - [【Nodejs技术栈】Skills-Hub-v0.5-发布，终于支持把-Skill-限定在单个项目里用了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523288&idx=1&sn=244e6c45d1046389e2b771e18d5bce9e&chksm=e80fd496df785d80635720e016d7c54d4125fbf7c1a5320d38fe3756a9c7df2b473d64cfa3d2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d299e62ceae3e88224c4335b9a58f9ee)
@@ -593,7 +594,6 @@
 - [【淘系前端团队】卡片式对话的协议方案探索和思考](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543235&idx=1&sn=a7fee9a41d18ec154d103c6fc053651b&chksm=8390dc9bb4e7558d8195b636e20884edf67b9799890299a3e4f56744425786447c831f72d402#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fbee3ad20de30d56f222edd2718d1c80)
 - [【前端早读课】【第3686期】从-Node.js-到-Bun：一次-5-倍吞吐量跃迁的全程实录](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278944&idx=1&sn=bd4a7e4187c77a8f821007ae28b8ec88&chksm=bc5acc588c9576f5b68fc96ae5022d7dfaccbdb84ead33c4a6dcc0fb7240424244d38b1ab3e7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8531524e9b2ad8bf77d6c3954726cdab)
 - [【Nodejs技术栈】好消息-Opus-4.7-最快本周见，坏消息-Claude-开始查身份证了！大家直呼，天塌了！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523249&idx=1&sn=c9ce25f1212485c2eecc9b63356d9b0c&chksm=e80fd4ffdf785de95cf89346e4480e41f190bc7cea1e3408f03dfccf3c3267da9196e6b124c2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=409581ab65f0d418ae1c9501ca1de0ac)
-- [【前端从进阶到入院】请停止过度设计：浏览器已经解决了这-8-个问题](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517575&idx=1&sn=20f90cd8662c443a56a455b951b56773&chksm=eb07bdfedc7034e8cbd0a4087d19390f22571318bc87646f4891cf03db693771c079a0d35b79#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=787017ae7225b2bf87ef99a582cc66d1)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

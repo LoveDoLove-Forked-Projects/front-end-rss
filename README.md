@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-04-20 19:10:12，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-20 23:08:01，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -28,14 +28,14 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
-- [Nodejs技术栈](#nodejs技术栈)  
+- [Nodejs技术栈](#nodejs技术栈)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -255,7 +255,7 @@
 </summary>
 
 
-- [2026-04-20-最大的-React-性能杀手不就是你？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517577&idx=1&sn=b21e25b3f11ed5d95eecbe987b4c7145&chksm=eb07bdf0dc7034e60bb6aa9b50a75221afea5c5257da28e52baf7a90f51e96e618336e5563e1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cea80bf34fd35f9c3386390ec4786fe4)  ![](/assets/new.png) 
+- [2026-04-20-最大的-React-性能杀手不就是你？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517577&idx=1&sn=b21e25b3f11ed5d95eecbe987b4c7145&chksm=eb07bdf0dc7034e60bb6aa9b50a75221afea5c5257da28e52baf7a90f51e96e618336e5563e1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cea80bf34fd35f9c3386390ec4786fe4)  
 - [2026-04-16-请停止过度设计：浏览器已经解决了这-8-个问题](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517575&idx=1&sn=20f90cd8662c443a56a455b951b56773&chksm=eb07bdfedc7034e8cbd0a4087d19390f22571318bc87646f4891cf03db693771c079a0d35b79#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=787017ae7225b2bf87ef99a582cc66d1)  
 - [2026-04-13-AI困境：一个程序员的困境与觉醒](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517571&idx=1&sn=adc1c6d506b250e10f023cd5a05894e5&chksm=eb07bdfadc7034ec67dab203cde244f454d73a3686ce40cb13994a04b53d29a94f673284438d#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=941426f95403b1b05dd60ff647f181b1)  
 - [2026-04-10-MIT实锤：AI代码迭代5次，比人类屎山烂2.2倍](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517569&idx=1&sn=aa2ac781d1fda0ba4ff3d97fa6ab84e7&chksm=eb07bdf8dc7034eea31775c77aa6b1ca6449ea8b5b0cfc38659eaead98ecd2a22901214a9f7c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e1b73d48389e6223e86ae6cb2617159e)  
@@ -402,6 +402,7 @@
 </summary>
 
 
+- [2026-04-20-强烈推荐！这个-Skill-画架构图质量超高，一句话出图](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523289&idx=1&sn=806fc13bce3840caf61aac285adf23c8&chksm=e80fd497df785d817499470e08e7f2ae99c7ddd6c9d34c33dcee1ac09dc26b4b4fcb839d01f7#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6f19baa77101658b353d94dbf1e7c856)  ![](/assets/new.png) 
 - [2026-04-18-Skills-Hub-v0.5-发布，终于支持把-Skill-限定在单个项目里用了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523288&idx=1&sn=244e6c45d1046389e2b771e18d5bce9e&chksm=e80fd496df785d80635720e016d7c54d4125fbf7c1a5320d38fe3756a9c7df2b473d64cfa3d2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d299e62ceae3e88224c4335b9a58f9ee)  
 - [2026-04-17-Claude-Opus-4.7-正式发布，编程能力大幅提升，创始人已经不看代码过程了！](http://mp.weixin.qq.com/s/q1CPMB5PBRUZqamg37Yrmg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ad3858468ee9f31d3bd7267f2b7815cf)  
 - [2026-04-16-好消息-Opus-4.7-最快本周见，坏消息-Claude-开始查身份证了！大家直呼，天塌了！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523249&idx=1&sn=c9ce25f1212485c2eecc9b63356d9b0c&chksm=e80fd4ffdf785de95cf89346e4480e41f190bc7cea1e3408f03dfccf3c3267da9196e6b124c2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=409581ab65f0d418ae1c9501ca1de0ac)  
@@ -411,7 +412,6 @@
 - [2026-04-12-刚搞懂-Prompt/Context-工程，才发现圈里已经不聊这个了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523216&idx=1&sn=631cb098a0c15e53291337404792e98d&chksm=e80fd4dedf785dc8b9be870476680687c9ad9c55effb9e007ae6373e144cdba62f32c74a74ab#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6fc28c1daa22ddafcf7a4c2694fdb2b2)  
 - [2026-04-11-Node.js-25.9.0-发布：终于可以用环境变量控制堆内存了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523210&idx=1&sn=9489af7dfb7abef3b1d3303fd599c8e8&chksm=e80fd4c4df785dd2234a2798a82f17e17238a990dce02ea3731683ec34e78aefed196da0067c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4bbf8737c0d2b7d5f98c70bfec2423a7)  
 - [2026-04-10-Anthropic-让-Opus-给-Sonnet-当军师：跑分涨了-2.7%，成本还降了-12%](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523209&idx=1&sn=2a157282dd9685675633be9c77cc610f&chksm=e80fd4c7df785dd1cfc9cf920929c3e2cd12fbaab173bb0c33f8ebd0f8ec6f821f383b978cab#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e8ba72344bc2de71cae6d5b1acf8028c)  
-- [2026-04-09-Anthropic-不只卖模型了！Claude-Managed-Agents-发布，Agent-即服务时代来了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523200&idx=1&sn=f1b91a6cf2fc13001b47176cd7635a7e&chksm=e80fd4cedf785dd8d6a606d5825e3bbe66efb4bc13d54e6c56ba6e3de259707e8143ca815fb4#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9f2c9ea580079d392ad3f1adc9a378d5)  
 - [查看更多 >](/details/Nodejs技术栈.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
