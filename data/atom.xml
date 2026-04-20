@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-20T04:48:41.203Z</updated>
+    <updated>2026-04-20T11:09:49.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[最大的 React 性能杀手不就是你？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517577&amp;idx=1&amp;sn=b21e25b3f11ed5d95eecbe987b4c7145&amp;chksm=eb07bdf0dc7034e60bb6aa9b50a75221afea5c5257da28e52baf7a90f51e96e618336e5563e1#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517577&amp;idx=1&amp;sn=b21e25b3f11ed5d95eecbe987b4c7145&amp;chksm=eb07bdf0dc7034e60bb6aa9b50a75221afea5c5257da28e52baf7a90f51e96e618336e5563e1#rd"/>
+        <updated>2026-04-20T00:00:00.000Z</updated>
+        <published>2026-04-20T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Skills Hub v0.5 发布，终于支持把 Skill 限定在单个项目里用了]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523288&amp;idx=1&amp;sn=244e6c45d1046389e2b771e18d5bce9e&amp;chksm=e80fd496df785d80635720e016d7c54d4125fbf7c1a5320d38fe3756a9c7df2b473d64cfa3d2#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Skills 乱麻了！这款开源神器彻底终结噩梦，Cursor/Claude 一键全同步]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529642&amp;idx=1&amp;sn=16005d3929226468a8ee1b8c0ed4c8b6&amp;chksm=f992727bcee5fb6d914cc77966c95fe1545ed7ad4d303da32eade65e5d892b826e4acc3e8b26#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247529642&amp;idx=1&amp;sn=16005d3929226468a8ee1b8c0ed4c8b6&amp;chksm=f992727bcee5fb6d914cc77966c95fe1545ed7ad4d303da32eade65e5d892b826e4acc3e8b26#rd"/>
-        <updated>2026-04-02T00:00:00.000Z</updated>
-        <published>2026-04-02T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早说】AI指数级进化时代的产品管理]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278860&amp;idx=1&amp;sn=54fc7b48572bb519431e0f10a96445c9&amp;chksm=bcb6d6dbe3d7fe42cd6a8ffb84b072ab7ce5b5787129441ac8e8f430178090eed732c782546d&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278860&amp;idx=1&amp;sn=54fc7b48572bb519431e0f10a96445c9&amp;chksm=bcb6d6dbe3d7fe42cd6a8ffb84b072ab7ce5b5787129441ac8e8f430178090eed732c782546d&amp;scene=0#rd"/>
         <updated>2026-04-02T00:00:00.000Z</updated>
         <published>2026-04-02T00:00:00.000Z</published>
     </entry>

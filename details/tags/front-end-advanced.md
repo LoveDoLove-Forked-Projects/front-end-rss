@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-20 12:48:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-20 19:10:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶
 
@@ -7,7 +7,7 @@
 
 
 
-- [2026-04-18-Skills-Hub-v0.5-发布，终于支持把-Skill-限定在单个项目里用了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523288&idx=1&sn=244e6c45d1046389e2b771e18d5bce9e&chksm=e80fd496df785d80635720e016d7c54d4125fbf7c1a5320d38fe3756a9c7df2b473d64cfa3d2#rd) 
+- [2026-04-18-Skills-Hub-v0.5-发布，终于支持把-Skill-限定在单个项目里用了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523288&idx=1&sn=244e6c45d1046389e2b771e18d5bce9e&chksm=e80fd496df785d80635720e016d7c54d4125fbf7c1a5320d38fe3756a9c7df2b473d64cfa3d2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d299e62ceae3e88224c4335b9a58f9ee) 
 - [2026-04-17-Claude-Opus-4.7-正式发布，编程能力大幅提升，创始人已经不看代码过程了！](http://mp.weixin.qq.com/s/q1CPMB5PBRUZqamg37Yrmg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ad3858468ee9f31d3bd7267f2b7815cf) 
 - [2026-04-17-借助mediabunny纯JS实现视频水印、剪裁、合成等功能](https://www.zhangxinxu.com/wordpress/2026/04/mediabunny-video-water-clip-merge/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0e724a72a01be2caaa738a09a8f4c56d) 
 - [2026-04-14-从全量启动到最小核：-手淘外链唤端链路的三次架构演进](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543182&idx=1&sn=f52ba106e3ecb3a514faa80f0ca4e607&chksm=8390dc56b4e7554013a81c8d23caab46287b404cdce8ba42a0962dddacde74790740657ece40#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=7ad7f40968e74971a8466908b8d687e7) 
@@ -777,8 +777,8 @@
 - [2023-08-17-【第3030期】从集合论的角度理解-TypeScript](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264982&idx=1&sn=38d7d660dc6c5dc5fe4a28b2b90c06a9&chksm=bd48ce528a3f4744045c26769b600409d168d40168354af0ed38eca4d6eb4fb0c89c99c35d5e#rd) 
 - [2023-08-16-CSS-TIPS!单-img-标签实现的缩放效果](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247487932&idx=1&sn=1b39067b182926a9024ba2cc78515467&chksm=97c67273a0b1fb651fe47c58c21889657f15fd05d378891ff52dbfd3d0a1ee288d41f9f300c7#rd) 
 - [2023-08-16-19-个实用的-ES6-代码片段，解决常见的-JavaScript-问题](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513451&idx=2&sn=9786df020c4b8665b1f52055bcaa7670&chksm=eb078d12dc700404ef1eb2d3d39010a78b51fcd9b279e7119f8bf359cf435663a2f12e3380e1#rd) 
-- [2023-08-14-年薪拿不到25w全额退｜算法工程师培养计划](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513409&idx=1&sn=4230ea913de75c7837ffb2136f8479c6&chksm=eb078d38dc70042e0b9fd0e628e527c3efb4a5be7cbeed1e8c73b44987dcdf64fc0983d0d204#rd) 
 - [2023-08-14-注意，这个-JavaScript-事件即将弃用！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513409&idx=2&sn=26fa5b0ebf859e5444cc5484cf4b3749&chksm=eb078d38dc70042ed619ffa33cfcecbeb434da2f3c0fc185938e8876d5f900d07de288ef3f69#rd) 
+- [2023-08-14-年薪拿不到25w全额退｜算法工程师培养计划](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513409&idx=1&sn=4230ea913de75c7837ffb2136f8479c6&chksm=eb078d38dc70042e0b9fd0e628e527c3efb4a5be7cbeed1e8c73b44987dcdf64fc0983d0d204#rd) 
 - [2023-08-14-精读《算法题---最小覆盖子串》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487127&idx=1&sn=0aa1d42f299d150748e6981f597e2835&chksm=fc86285dcbf1a14bbf31eece2ac4e3bd2af2a41cb04c1c79ead23292a24a80c2fcdc0fea320c#rd) 
 - [2023-08-14-用-TypeScript-编写一个-2D-格斗游戏](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515713&idx=1&sn=8becfa07c86f988b7c1cbc6af81f854f&chksm=f992b890cee531868885b6f7766780181424d8f9d3fd7bfc43108650f6ec13a61f24253831e5#rd) 
 - [2023-08-14-深入调研了微前端，还是-iframe-最香](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616518&idx=1&sn=9e276da83d9831c7ab5868a5a70697a8&chksm=8022a2c7b7552bd139d70bb2fc92b5524afef7de4888b2e5e2dc4a27ab2a77b770048586fd71#rd) 
