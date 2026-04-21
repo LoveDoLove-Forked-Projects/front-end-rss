@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-21T04:39:14.457Z</updated>
+    <updated>2026-04-21T16:46:50.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Create videos with HTML and JavaScript via HyperFrames]]></title>
+        <id>https://javascriptweekly.com/issues/782</id>
+        <link href="https://javascriptweekly.com/issues/782"/>
+        <updated>2026-04-21T00:00:00.000Z</updated>
+        <published>2026-04-21T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[强烈推荐！这个 Skill 画架构图质量超高，一句话出图]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523289&amp;idx=1&amp;sn=806fc13bce3840caf61aac285adf23c8&amp;chksm=e80fd497df785d817499470e08e7f2ae99c7ddd6c9d34c33dcee1ac09dc26b4b4fcb839d01f7#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278865&amp;idx=1&amp;sn=72b0e18b749cbe4817d6f7b96c6ea7ed&amp;chksm=bc0ba13f35cf0cd8f410ef892d3490d0c93ca1c3c35d2469057a5c6b627953e4a637451bd6f5&amp;scene=0#rd"/>
         <updated>2026-04-03T00:00:00.000Z</updated>
         <published>2026-04-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Star 暴涨！前 React 核心成员出手，把浏览器 30 年算不好的文字布局问题解决了]]></title>
-        <id>http://mp.weixin.qq.com/s/ibVkVGk62j3kCPO_wxBYlg</id>
-        <link href="http://mp.weixin.qq.com/s/ibVkVGk62j3kCPO_wxBYlg"/>
-        <updated>2026-04-02T00:00:00.000Z</updated>
-        <published>2026-04-02T00:00:00.000Z</published>
     </entry>
 </feed>
