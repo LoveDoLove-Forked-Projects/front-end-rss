@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-04-22 00:47:03，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-22 12:37:05，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
-- [前端早读课](#前端早读课)  
+- [JavaScript-Weekly](#javascript-weekly)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
@@ -66,7 +66,7 @@
 </summary>
 
 
-- [2026-04-21-Create-videos-with-HTML-and-JavaScript-via-HyperFrames](https://javascriptweekly.com/issues/782)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5b4316ae089e1bc335cde9c737bfaf24)  ![](/assets/new.png) 
+- [2026-04-21-Create-videos-with-HTML-and-JavaScript-via-HyperFrames](https://javascriptweekly.com/issues/782)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5b4316ae089e1bc335cde9c737bfaf24)  
 - [2026-04-14-MDN-ditches-React-for-web-components-in-frontend-rebuild](https://javascriptweekly.com/issues/781)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b840a6adba863fcd1146306453fc4314)  
 - [2026-04-07-What-to-know-about-JavaScript-in-2026](https://javascriptweekly.com/issues/780)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=aafd5aee5b247137a4ebb770a7324a8f)  
 - [2026-03-31-A-new,-major-npm-supply-chain-attack-via-Axios](https://javascriptweekly.com/issues/779)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a38f983bf5b0be6c9bef393b01c22eca)  
@@ -87,6 +87,7 @@
 </summary>
 
 
+- [2026-04-22-【第3688期】七大AI策略，终结开发者入职困局](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278958&idx=1&sn=e83a98cabe42a49a6b5874d16c0c9264&chksm=bc34dcd1fd94120322f5d3a3e47db80e77f7730d3878aab2e770a1012e381b1f7c1cbb780e13&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c160cce98525774ed42d85af3c8f2c7f)  ![](/assets/new.png) 
 - [2026-04-21-【第3687期】看的是错误的-Pretext-演示](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278953&idx=1&sn=0d4534662456020949d4195a8868dde3&chksm=bc5ced95adaab08c816e6e4fdfda4b4a7aa6a4ff057702a07b35494fc3fd5d2a30a851b9a040&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a5765cca768930c6855adc0b9fe8fd83)  
 - [2026-04-20-【早说】编程通缩：当代码一天比一天便宜](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278949&idx=1&sn=c034727235a100638c4bacc52937b7d5&chksm=bcb7ddb38d4c57dede7fe9ab41857cec1ea084ffeed061af17c652e3d6688c25f884e899ff0f&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=11da56c4a59240bcbe8234ecb4b96cbf)  
 - [2026-04-17-【第3686期】从-Node.js-到-Bun：一次-5-倍吞吐量跃迁的全程实录](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278944&idx=1&sn=bd4a7e4187c77a8f821007ae28b8ec88&chksm=bc5acc588c9576f5b68fc96ae5022d7dfaccbdb84ead33c4a6dcc0fb7240424244d38b1ab3e7&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8531524e9b2ad8bf77d6c3954726cdab)  
@@ -96,7 +97,6 @@
 - [2026-04-13-【第3683期】从被动补全到主动编排：用技能架构驾驭AI编程助手](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278916&idx=1&sn=7ff277a43cd9c3a0bf9c575159257c5b&chksm=bcee0aff16672f1494a35509b09ab65c050f98df8a8b20abdaea4a46662ba0c35d3a437cba5d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=33164809b0c4ab6052e87bf07acdf4ef)  
 - [2026-04-10-【第3682期】别让AI替你思考：苏格拉底提示法，把AI变成你的思考搭档](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278911&idx=1&sn=67a81a5373518b0b343ace3ffc8790e8&chksm=bc75ab09a7c6da60183ab9bc7589bec9cadd9efcb09c5ce8826635a8e22d0504faf7aeeef383&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4167328630922ea01a25b7d6ed613d3a)  
 - [2026-04-09-【第3681期】拆解编程智能体：让大模型真正会写代码的六大核心组件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278906&idx=1&sn=18fd9ea1df2c13bdf6d8392d01d2f60d&chksm=bcb36108cef8fb4e5e40a93f9e903c9787d9413400b35104b5ecaabef0bef09f1275b9aada63&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=25102e2674373dab5e585fe32a194d94)  
-- [2026-04-08-【第3680期】包容性暗色模式：为所有用户打造无障碍的深色主题](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278888&idx=1&sn=ac784db94bd203f501429cb0e7e81ecf&chksm=bcfe334e5ff8ea5f66bba3a8152a2e734a7cde4226c3ef0c477cb867ae18ad03dcd6ae11f4bf&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=bbc893e3c14d51549f5e0951fa983649)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

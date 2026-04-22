@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-21T16:46:50.029Z</updated>
+    <updated>2026-04-22T04:36:48.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3688期】七大AI策略，终结开发者入职困局]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278958&amp;idx=1&amp;sn=e83a98cabe42a49a6b5874d16c0c9264&amp;chksm=bc34dcd1fd94120322f5d3a3e47db80e77f7730d3878aab2e770a1012e381b1f7c1cbb780e13&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278958&amp;idx=1&amp;sn=e83a98cabe42a49a6b5874d16c0c9264&amp;chksm=bc34dcd1fd94120322f5d3a3e47db80e77f7730d3878aab2e770a1012e381b1f7c1cbb780e13&amp;scene=0#rd"/>
+        <updated>2026-04-22T00:00:00.000Z</updated>
+        <published>2026-04-22T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Create videos with HTML and JavaScript via HyperFrames]]></title>
         <id>https://javascriptweekly.com/issues/782</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[淘宝跨端体验优化 AI 演进之路]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543161&amp;idx=1&amp;sn=203f52399657de9f0c1d8eced67d9cab&amp;chksm=8390dc21b4e755379d46e4ed6d670ec4c0a5243dad60a4d1f9ed2950d918804a9e3ba5b491f6#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543161&amp;idx=1&amp;sn=203f52399657de9f0c1d8eced67d9cab&amp;chksm=8390dc21b4e755379d46e4ed6d670ec4c0a5243dad60a4d1f9ed2950d918804a9e3ba5b491f6#rd"/>
-        <updated>2026-04-03T00:00:00.000Z</updated>
-        <published>2026-04-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早说】Ghostty创始人的AI之旅]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278865&amp;idx=1&amp;sn=72b0e18b749cbe4817d6f7b96c6ea7ed&amp;chksm=bc0ba13f35cf0cd8f410ef892d3490d0c93ca1c3c35d2469057a5c6b627953e4a637451bd6f5&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278865&amp;idx=1&amp;sn=72b0e18b749cbe4817d6f7b96c6ea7ed&amp;chksm=bc0ba13f35cf0cd8f410ef892d3490d0c93ca1c3c35d2469057a5c6b627953e4a637451bd6f5&amp;scene=0#rd"/>
         <updated>2026-04-03T00:00:00.000Z</updated>
         <published>2026-04-03T00:00:00.000Z</published>
     </entry>

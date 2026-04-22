@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-22 00:47:03。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-22 12:37:05。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -40,6 +40,7 @@
 
 
 
+- [【前端早读课】【第3688期】七大AI策略，终结开发者入职困局](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278958&idx=1&sn=e83a98cabe42a49a6b5874d16c0c9264&chksm=bc34dcd1fd94120322f5d3a3e47db80e77f7730d3878aab2e770a1012e381b1f7c1cbb780e13&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c160cce98525774ed42d85af3c8f2c7f)
 - [【Nodejs技术栈】Claude-Opus-4.7-正式发布，编程能力大幅提升，创始人已经不看代码过程了！](http://mp.weixin.qq.com/s/q1CPMB5PBRUZqamg37Yrmg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ad3858468ee9f31d3bd7267f2b7815cf)
 - [【Nodejs技术栈】好消息-Opus-4.7-最快本周见，坏消息-Claude-开始查身份证了！大家直呼，天塌了！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523249&idx=1&sn=c9ce25f1212485c2eecc9b63356d9b0c&chksm=e80fd4ffdf785de95cf89346e4480e41f190bc7cea1e3408f03dfccf3c3267da9196e6b124c2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=409581ab65f0d418ae1c9501ca1de0ac)
 - [【前端大全】突发：Claude引入强实名制验证！必须真人手持证件自拍，否则直接封号！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624380&idx=1&sn=a5fe535833e41db9510c4c17e4da1f68&chksm=8022447db755cd6b5034551bd0874e272c36d0d8c13c3ea61fd9ad66d9593ad9b7cd2a2d511b#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3d397432dcd5c2a6f44acf984c2f6701)
@@ -49,7 +50,6 @@
 - [【前端早读课】【早说】命令行才是AI工具的未来](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278926&idx=1&sn=97ebb35375d3f1640fa2fc8b52f51a02&chksm=bc29f0cfeafcfffd7a53a75da1b7907281838576495ae44ee58cedb19d031b3096b16c653ae8&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2a3467f8eeee98d99279861cbda65fa2)
 - [【Nodejs技术栈】76.8K-Star！OpenClaw-迎来最强对手-Hermes-Agent，还内置了一键迁移命令](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523227&idx=1&sn=34bda0d2eef7db056cd9e32161e8851b&chksm=e80fd4d5df785dc3dd55efabe78a1acdfdf56400c91352fc837a9ded5df8455bb2f5125b0d13#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=137dbef021564cfcf1dd785b4e78a86f)
 - [【程序员成长指北】【真诚建议】别让AI替你思考：苏格拉底提示法，把AI变成你的思考搭档](http://mp.weixin.qq.com/s/IWg4ANuFWfb04htxBZlfoA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2cd4e76047dadaa78df319b4f0896c67)
-- [【Nodejs技术栈】Shopify-把后台读写权限开放给-AI-Agent-了，Claude-Code-现在可以直接操作你的店铺！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523221&idx=1&sn=5e47abd84897e1cab461cb9a0668a90d&chksm=e80fd4dbdf785dcd9e64124c6418319ddddd504e0ebd09b6a3b7c1eb715b68920a15527e761a#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=61060218891c18088d2ef1a02353f8cd)
 - [查看更多 >](/details/tags/ai.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,6 +584,7 @@
 
 
 
+- [【前端早读课】【第3688期】七大AI策略，终结开发者入职困局](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278958&idx=1&sn=e83a98cabe42a49a6b5874d16c0c9264&chksm=bc34dcd1fd94120322f5d3a3e47db80e77f7730d3878aab2e770a1012e381b1f7c1cbb780e13&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c160cce98525774ed42d85af3c8f2c7f)
 - [【前端早读课】【第3687期】看的是错误的-Pretext-演示](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278953&idx=1&sn=0d4534662456020949d4195a8868dde3&chksm=bc5ced95adaab08c816e6e4fdfda4b4a7aa6a4ff057702a07b35494fc3fd5d2a30a851b9a040&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a5765cca768930c6855adc0b9fe8fd83)
 - [【JavaScript-Weekly】Create-videos-with-HTML-and-JavaScript-via-HyperFrames](https://javascriptweekly.com/issues/782)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5b4316ae089e1bc335cde9c737bfaf24)
 - [【Nodejs技术栈】强烈推荐！这个-Skill-画架构图质量超高，一句话出图](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523289&idx=1&sn=806fc13bce3840caf61aac285adf23c8&chksm=e80fd497df785d817499470e08e7f2ae99c7ddd6c9d34c33dcee1ac09dc26b4b4fcb839d01f7#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6f19baa77101658b353d94dbf1e7c856)
@@ -593,7 +594,6 @@
 - [【Nodejs技术栈】Claude-Opus-4.7-正式发布，编程能力大幅提升，创始人已经不看代码过程了！](http://mp.weixin.qq.com/s/q1CPMB5PBRUZqamg37Yrmg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ad3858468ee9f31d3bd7267f2b7815cf)
 - [【阮一峰的网络日志】科技爱好者周刊（第-393-期）：脑腐状态](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-393.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9b0110d99961c84881432c06e5d6e835)
 - [【张鑫旭-鑫空间-鑫生活】借助mediabunny纯JS实现视频水印、剪裁、合成等功能](https://www.zhangxinxu.com/wordpress/2026/04/mediabunny-video-water-clip-merge/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0e724a72a01be2caaa738a09a8f4c56d)
-- [【淘系前端团队】卡片式对话的协议方案探索和思考](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543235&idx=1&sn=a7fee9a41d18ec154d103c6fc053651b&chksm=8390dc9bb4e7558d8195b636e20884edf67b9799890299a3e4f56744425786447c831f72d402#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fbee3ad20de30d56f222edd2718d1c80)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
