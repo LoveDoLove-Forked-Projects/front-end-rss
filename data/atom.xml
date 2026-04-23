@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-23T04:41:24.613Z</updated>
+    <updated>2026-04-23T09:16:40.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[AI 时代的程序与程序员]]></title>
+        <id>https://fenghen.me/posts/2026/04/23/ai-era-programmers/</id>
+        <link href="https://fenghen.me/posts/2026/04/23/ai-era-programmers/"/>
+        <updated>2026-04-23T00:00:00.000Z</updated>
+        <published>2026-04-23T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MNN-Sana-Edit-V2：端侧运行的图像漫画风编辑大模型]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543249&amp;idx=1&amp;sn=77581e427502183f7b367489c86269c2&amp;chksm=8390dc89b4e7559f89c58afea8f6a7d3fb9363169fc1898ed72d78227a6512fcda49eb742914#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651624335&amp;idx=1&amp;sn=2e582e6aab952823b7e65eb8b0a6288e&amp;chksm=8022444eb755cd58d67ce869725d6a4d8857bcfa6444500edad814c269335c25880e6226f9e9#rd"/>
         <updated>2026-04-06T00:00:00.000Z</updated>
         <published>2026-04-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[终端里也能用鼠标点位置了！Claude Code 推出 NO_FLICKER 全新渲染模式]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523162&amp;idx=1&amp;sn=6ca3752e4965862f3f65295c75ea5724&amp;chksm=e80fd414df785d022800924de4f825d831e31e51614be9c2b505902ccdbe11edaa6ef8678338#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523162&amp;idx=1&amp;sn=6ca3752e4965862f3f65295c75ea5724&amp;chksm=e80fd414df785d022800924de4f825d831e31e51614be9c2b505902ccdbe11edaa6ef8678338#rd"/>
-        <updated>2026-04-04T00:00:00.000Z</updated>
-        <published>2026-04-04T00:00:00.000Z</published>
     </entry>
 </feed>

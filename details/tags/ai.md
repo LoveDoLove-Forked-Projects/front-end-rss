@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-23 12:41:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-23 17:16:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-04-23-AI-时代的程序与程序员](https://fenghen.me/posts/2026/04/23/ai-era-programmers/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=127b8fe1c3b079682644bcd71f798f14) 
 - [2026-04-22-【第3688期】七大AI策略，终结开发者入职困局](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278958&idx=1&sn=e83a98cabe42a49a6b5874d16c0c9264&chksm=bc34dcd1fd94120322f5d3a3e47db80e77f7730d3878aab2e770a1012e381b1f7c1cbb780e13&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c160cce98525774ed42d85af3c8f2c7f) 
 - [2026-04-17-Claude-Opus-4.7-正式发布，编程能力大幅提升，创始人已经不看代码过程了！](http://mp.weixin.qq.com/s/q1CPMB5PBRUZqamg37Yrmg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ad3858468ee9f31d3bd7267f2b7815cf) 
 - [2026-04-16-好消息-Opus-4.7-最快本周见，坏消息-Claude-开始查身份证了！大家直呼，天塌了！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523249&idx=1&sn=c9ce25f1212485c2eecc9b63356d9b0c&chksm=e80fd4ffdf785de95cf89346e4480e41f190bc7cea1e3408f03dfccf3c3267da9196e6b124c2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=409581ab65f0d418ae1c9501ca1de0ac) 
@@ -344,8 +345,8 @@
 - [2025-03-17-AI赋能：大模型创新的模板生成与内容填充](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539065&idx=1&sn=f53acd34955ae0fc8aa788bf428e510a&chksm=8390cc21b4e74537f084bc6d69ed0686610e91f18c45390d51dfaeffc3a2035e15057f74a196#rd) 
 - [2025-03-14-淘宝直播AI提效探索的一些心得](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539038&idx=1&sn=70fd255b456b392126a422c98e14b7e5&chksm=8390cc06b4e74510cd70310b16ed218c01c7c000a8e5b6cc078fccb12b022b3f8c874cd22aca#rd) 
 - [2025-03-14-Trae-x-稀土掘金：与-AI-结伴，编程不孤单，推荐&amp;学习有好礼！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506085&idx=1&sn=b3add3c5011dda34f3ab6ba3346eff1a&chksm=cea96fa4f9dee6b22768572d68c962b96b9acfb2f3f130b49c191c91e1582a11abcd687ce7a1#rd) 
-- [2025-03-12-AI-媒介将如何重塑人类社会（风痕、Claude-访谈记录）](https://fenghen.me/posts/2025/03/12/how-ai-media-will-reshaping-human-society/) 
 - [2025-03-12-AI-媒介将如何重塑人类社会（风痕、Claude-访谈记录）](https://hughfenghen.github.io/posts/2025/03/12/how-ai-media-will-reshaping-human-society/) 
+- [2025-03-12-AI-媒介将如何重塑人类社会（风痕、Claude-访谈记录）](https://fenghen.me/posts/2025/03/12/how-ai-media-will-reshaping-human-society/) 
 - [2025-03-12-最佳实践-5倍效率+覆盖率90%，大部分程序员不知道的-Cursor-单测生成黑科技](http://mp.weixin.qq.com/s/xbsRnZSjx1rk9QlIAFsqqg) 
 - [2025-03-12-【第3471期】别再为人编写代码——未来属于-AI-Agents](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275961&idx=1&sn=ed6a888e0161119c53c2460cb9b2008c&chksm=bc92ba0f77b54595ba211dc325cc9872a1ed056d5b88aca6b75efe4604ac00ee53667975babd&scene=0#rd) 
 - [2025-03-11-现在就是最好的时机！AI-FOR-CODE挑战赛「创意赛道」作品提交指南，用Idea传递无限可能](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506074&idx=1&sn=faf465b3b94df1b1abd5a0976e1cc718&chksm=cea96f9bf9dee68ddaf21c2f92624d922c78a564a5fc731b0aa624b8b89763e8df629f799aa3#rd) 

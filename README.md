@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-04-23 12:41:41，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-23 17:16:49，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
@@ -34,7 +34,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
-- [风痕·術&amp;思](#风痕·術&amp;思)  
+- [风痕·術&amp;思](#风痕·術&amp;思)![](/assets/dot.png)   
 - [Nodejs技术栈](#nodejs技术栈)  
 
 ## 文章链接
@@ -87,7 +87,7 @@
 </summary>
 
 
-- [2026-04-23-【第3689期】MDN-新前端的内部机制](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278964&idx=1&sn=2cc25711f66f3c3672c4186db5961a6b&chksm=bccdfe14e5fb3b0057cddabc09ba26d734fa7c610d89a11025e6481a56fee7886a789a6355ac&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d8a7eaf5d2b436406c4db2b10fef340)  ![](/assets/new.png) 
+- [2026-04-23-【第3689期】MDN-新前端的内部机制](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278964&idx=1&sn=2cc25711f66f3c3672c4186db5961a6b&chksm=bccdfe14e5fb3b0057cddabc09ba26d734fa7c610d89a11025e6481a56fee7886a789a6355ac&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d8a7eaf5d2b436406c4db2b10fef340)  
 - [2026-04-22-【第3688期】七大AI策略，终结开发者入职困局](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278958&idx=1&sn=e83a98cabe42a49a6b5874d16c0c9264&chksm=bc34dcd1fd94120322f5d3a3e47db80e77f7730d3878aab2e770a1012e381b1f7c1cbb780e13&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c160cce98525774ed42d85af3c8f2c7f)  
 - [2026-04-21-【第3687期】看的是错误的-Pretext-演示](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278953&idx=1&sn=0d4534662456020949d4195a8868dde3&chksm=bc5ced95adaab08c816e6e4fdfda4b4a7aa6a4ff057702a07b35494fc3fd5d2a30a851b9a040&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a5765cca768930c6855adc0b9fe8fd83)  
 - [2026-04-20-【早说】编程通缩：当代码一天比一天便宜](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278949&idx=1&sn=c034727235a100638c4bacc52937b7d5&chksm=bcb7ddb38d4c57dede7fe9ab41857cec1ea084ffeed061af17c652e3d6688c25f884e899ff0f&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=11da56c4a59240bcbe8234ecb4b96cbf)  
@@ -381,16 +381,16 @@
 </summary>
 
 
+- [2026-04-23-AI-时代的程序与程序员](https://fenghen.me/posts/2026/04/23/ai-era-programmers/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=127b8fe1c3b079682644bcd71f798f14)  ![](/assets/new.png) 
 - [2026-02-03-2025-年终总结](https://fenghen.me/posts/2026/02/03/_2025-year-end-summary/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ad3fa045da9a0b2ffd9bdd839d3c46b1)  
 - [2025-10-17-笔记软件孕育数字分身](https://fenghen.me/posts/2025/10/17/notes-and-digital-twin/) 
 - [2025-09-09-终端开发环境搭建](https://fenghen.me/posts/2025/09/09/terminal-dev-env/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8bdf56f0343341866fbcbeb1ac546518)  
-- [2025-09-01-ZingAI.video-Online-Talking-Head-Video-Editing](https://fenghen.me/posts/2025/09/01/zingai-overview-en/) 
 - [2025-09-01-ZingAI.video-在线口播视频剪辑](https://fenghen.me/posts/2025/09/01/overview/) 
+- [2025-09-01-ZingAI.video-Online-Talking-Head-Video-Editing](https://fenghen.me/posts/2025/09/01/zingai-overview-en/) 
 - [2025-08-20-互联网“骨干协议”-——-BGP-协议](https://fenghen.me/posts/2025/08/20/bgp/) 
 - [2025-07-07-视频编辑，如何选择技术方案](https://fenghen.me/posts/2025/07/07/choosing-the-right-technical-approach-for-video-editing/) 
 - [2025-04-11-商务合作（帅气博主在线接单）](https://fenghen.me/posts/2025/04/11/business-cooperation/) 
 - [2025-03-29-2025-裸辞计划](https://fenghen.me/posts/2025/03/29/_2025-plan/) 
-- [2025-03-12-AI-媒介将如何重塑人类社会（风痕、Claude-访谈记录）](https://hughfenghen.github.io/posts/2025/03/12/how-ai-media-will-reshaping-human-society/) 
 - [查看更多 >](/details/风痕·術&思.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

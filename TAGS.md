@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-23 12:41:41。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-23 17:16:49。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -40,6 +40,7 @@
 
 
 
+- [【风痕·術&思】AI-时代的程序与程序员](https://fenghen.me/posts/2026/04/23/ai-era-programmers/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=127b8fe1c3b079682644bcd71f798f14)
 - [【前端早读课】【第3688期】七大AI策略，终结开发者入职困局](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278958&idx=1&sn=e83a98cabe42a49a6b5874d16c0c9264&chksm=bc34dcd1fd94120322f5d3a3e47db80e77f7730d3878aab2e770a1012e381b1f7c1cbb780e13&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c160cce98525774ed42d85af3c8f2c7f)
 - [【Nodejs技术栈】Claude-Opus-4.7-正式发布，编程能力大幅提升，创始人已经不看代码过程了！](http://mp.weixin.qq.com/s/q1CPMB5PBRUZqamg37Yrmg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ad3858468ee9f31d3bd7267f2b7815cf)
 - [【Nodejs技术栈】好消息-Opus-4.7-最快本周见，坏消息-Claude-开始查身份证了！大家直呼，天塌了！](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523249&idx=1&sn=c9ce25f1212485c2eecc9b63356d9b0c&chksm=e80fd4ffdf785de95cf89346e4480e41f190bc7cea1e3408f03dfccf3c3267da9196e6b124c2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=409581ab65f0d418ae1c9501ca1de0ac)
@@ -49,7 +50,6 @@
 - [【前端大全】刚刚，Cursor被扒底裤！Claude-Code套壳实锤，500亿估值全靠Ctrl+H？](http://mp.weixin.qq.com/s/HxMbpBXLEFhSYnW8vwnclw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1cdb7507238231d9b49b21d40c87e44d)
 - [【前端早读课】【早说】命令行才是AI工具的未来](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278926&idx=1&sn=97ebb35375d3f1640fa2fc8b52f51a02&chksm=bc29f0cfeafcfffd7a53a75da1b7907281838576495ae44ee58cedb19d031b3096b16c653ae8&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2a3467f8eeee98d99279861cbda65fa2)
 - [【Nodejs技术栈】76.8K-Star！OpenClaw-迎来最强对手-Hermes-Agent，还内置了一键迁移命令](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523227&idx=1&sn=34bda0d2eef7db056cd9e32161e8851b&chksm=e80fd4d5df785dc3dd55efabe78a1acdfdf56400c91352fc837a9ded5df8455bb2f5125b0d13#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=137dbef021564cfcf1dd785b4e78a86f)
-- [【程序员成长指北】【真诚建议】别让AI替你思考：苏格拉底提示法，把AI变成你的思考搭档](http://mp.weixin.qq.com/s/IWg4ANuFWfb04htxBZlfoA)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2cd4e76047dadaa78df319b4f0896c67)
 - [查看更多 >](/details/tags/ai.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,6 +584,7 @@
 
 
 
+- [【风痕·術&思】AI-时代的程序与程序员](https://fenghen.me/posts/2026/04/23/ai-era-programmers/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=127b8fe1c3b079682644bcd71f798f14)
 - [【前端早读课】【第3689期】MDN-新前端的内部机制](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278964&idx=1&sn=2cc25711f66f3c3672c4186db5961a6b&chksm=bccdfe14e5fb3b0057cddabc09ba26d734fa7c610d89a11025e6481a56fee7886a789a6355ac&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d8a7eaf5d2b436406c4db2b10fef340)
 - [【淘系前端团队】MNN-Sana-Edit-V2：端侧运行的图像漫画风编辑大模型](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543249&idx=1&sn=77581e427502183f7b367489c86269c2&chksm=8390dc89b4e7559f89c58afea8f6a7d3fb9363169fc1898ed72d78227a6512fcda49eb742914#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d3d3d3b8a9f5cd859e483498c0c6e8e5)
 - [【前端早读课】【第3688期】七大AI策略，终结开发者入职困局](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278958&idx=1&sn=e83a98cabe42a49a6b5874d16c0c9264&chksm=bc34dcd1fd94120322f5d3a3e47db80e77f7730d3878aab2e770a1012e381b1f7c1cbb780e13&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c160cce98525774ed42d85af3c8f2c7f)
@@ -593,7 +594,6 @@
 - [【JavaScript-Weekly】Create-videos-with-HTML-and-JavaScript-via-HyperFrames](https://javascriptweekly.com/issues/782)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5b4316ae089e1bc335cde9c737bfaf24)
 - [【Nodejs技术栈】强烈推荐！这个-Skill-画架构图质量超高，一句话出图](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523289&idx=1&sn=806fc13bce3840caf61aac285adf23c8&chksm=e80fd497df785d817499470e08e7f2ae99c7ddd6c9d34c33dcee1ac09dc26b4b4fcb839d01f7#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6f19baa77101658b353d94dbf1e7c856)
 - [【淘系前端团队】Codeindex-·-让大模型更好地理解你的代码](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650543241&idx=1&sn=d5c2de59eea1b5e190a394b7913c7577&chksm=8390dc91b4e7558727131f6b36b67b7995a645ce90ac76f5a86b348d91956123bbd6da3cd0f6#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3b74f882c39dd90303f767267a6907d1)
-- [【前端从进阶到入院】最大的-React-性能杀手不就是你？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517577&idx=1&sn=b21e25b3f11ed5d95eecbe987b4c7145&chksm=eb07bdf0dc7034e60bb6aa9b50a75221afea5c5257da28e52baf7a90f51e96e618336e5563e1#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=cea80bf34fd35f9c3386390ec4786fe4)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
