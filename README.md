@@ -14,11 +14,11 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-04-23 23:29:21，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-24 09:22:46，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -32,7 +32,7 @@
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
 - [Nodejs技术栈](#nodejs技术栈)  
@@ -45,7 +45,7 @@
 </summary>
 
 
-- [2026-04-23-Playwright's-exciting-new-page.screencast-API](https://nodeweekly.com/issues/621)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1562b83b6b5ebe53a419c8d6c175244a)  ![](/assets/new.png) 
+- [2026-04-23-Playwright's-exciting-new-page.screencast-API](https://nodeweekly.com/issues/621)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1562b83b6b5ebe53a419c8d6c175244a)  
 - [2026-04-16-Node-moves-toward-Temporal-by-default](https://nodeweekly.com/issues/620)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=dad993ebd7c6a7675b65fc17ca6efefe)  
 - [2026-04-09-Social-engineering-attacks-target-high-impact-Node.js-maintainers](https://nodeweekly.com/issues/619)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=25cbe0bf91baee921ebc6c8539d8da58)  
 - [2026-04-02-Node.js-25.9-brings---max-heap-size-and-better,-iterable-streams](https://nodeweekly.com/issues/618)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a0092eef8f955b266308b261ede471c7)  
@@ -339,6 +339,7 @@
 </summary>
 
 
+- [2026-04-24-科技爱好者周刊（第-394-期）：第二次-API-开放浪潮](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d870bf0e2804d72d4ada788b77395c7d)  ![](/assets/new.png) 
 - [2026-04-17-科技爱好者周刊（第-393-期）：脑腐状态](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-393.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9b0110d99961c84881432c06e5d6e835)  
 - [2026-04-10-科技爱好者周刊（第-392-期）：axios-投毒与好莱坞式骗术](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e2ccc12b94e830cb0bfccfa4ea562670)  
 - [2026-04-03-科技爱好者周刊（第-391-期）：AI-的贫富分化](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d84ac0a58d1188959ec6e9608c9b063)  
@@ -348,7 +349,6 @@
 - [2026-03-13-科技爱好者周刊（第-388-期）：测试是新的护城河](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-388.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=6c79a88a7991391d1f88497e0d26613b)  
 - [2026-03-12-零安装的"云养虾"：ArkClaw-使用指南](http://www.ruanyifeng.com/blog/2026/03/arkclaw.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5f4d9da2958a384bf8c9921dcbc65d28)  
 - [2026-03-06-科技爱好者周刊（第-387-期）：你是领先的](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-387.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=555aecb7a1061f01f63db9951be1a979)  
-- [2026-02-27-科技爱好者周刊（第-386-期）：当外卖员接入-AI](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-386.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=241ea1cb865af38b998fc2766990e63a)  
 - [查看更多 >](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
