@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2026-04-24 09:22:46，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-24 12:45:53，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
@@ -32,7 +32,7 @@
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
 - [Nodejs技术栈](#nodejs技术栈)  
@@ -87,6 +87,7 @@
 </summary>
 
 
+- [2026-04-24-【早说】理解力负债——AI生成代码的隐性成本](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278972&idx=1&sn=d9c567e7e40dec0edb822f358173f88d&chksm=bc56db92b015f0b746a7e2dc46b38d21c8ecc970528b211e777358cc0fae17729d1075a2577b&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8f76c0aadf400f9868a248ba88816957)  ![](/assets/new.png) 
 - [2026-04-23-【第3689期】MDN-新前端的内部机制](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278964&idx=1&sn=2cc25711f66f3c3672c4186db5961a6b&chksm=bccdfe14e5fb3b0057cddabc09ba26d734fa7c610d89a11025e6481a56fee7886a789a6355ac&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d8a7eaf5d2b436406c4db2b10fef340)  
 - [2026-04-22-【第3688期】七大AI策略，终结开发者入职困局](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278958&idx=1&sn=e83a98cabe42a49a6b5874d16c0c9264&chksm=bc34dcd1fd94120322f5d3a3e47db80e77f7730d3878aab2e770a1012e381b1f7c1cbb780e13&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c160cce98525774ed42d85af3c8f2c7f)  
 - [2026-04-21-【第3687期】看的是错误的-Pretext-演示](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278953&idx=1&sn=0d4534662456020949d4195a8868dde3&chksm=bc5ced95adaab08c816e6e4fdfda4b4a7aa6a4ff057702a07b35494fc3fd5d2a30a851b9a040&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a5765cca768930c6855adc0b9fe8fd83)  
@@ -96,7 +97,6 @@
 - [2026-04-15-【早说】命令行才是AI工具的未来](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278926&idx=1&sn=97ebb35375d3f1640fa2fc8b52f51a02&chksm=bc29f0cfeafcfffd7a53a75da1b7907281838576495ae44ee58cedb19d031b3096b16c653ae8&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2a3467f8eeee98d99279861cbda65fa2)  
 - [2026-04-14-【第3684期】最低发布时限：最简单却最有效的供应链防线](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278921&idx=1&sn=7f1d2bb7758618ecb95ec9685440242b&chksm=bc113861189c53cace2dd2ae0a2bb83de8ec903f1e6d200fba6bc82280e802f2b658d669ff6d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f604b027cf257574964772f8b9a4fb1b)  
 - [2026-04-13-【第3683期】从被动补全到主动编排：用技能架构驾驭AI编程助手](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278916&idx=1&sn=7ff277a43cd9c3a0bf9c575159257c5b&chksm=bcee0aff16672f1494a35509b09ab65c050f98df8a8b20abdaea4a46662ba0c35d3a437cba5d&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=33164809b0c4ab6052e87bf07acdf4ef)  
-- [2026-04-10-【第3682期】别让AI替你思考：苏格拉底提示法，把AI变成你的思考搭档](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278911&idx=1&sn=67a81a5373518b0b343ace3ffc8790e8&chksm=bc75ab09a7c6da60183ab9bc7589bec9cadd9efcb09c5ce8826635a8e22d0504faf7aeeef383&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4167328630922ea01a25b7d6ed613d3a)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -339,7 +339,7 @@
 </summary>
 
 
-- [2026-04-24-科技爱好者周刊（第-394-期）：第二次-API-开放浪潮](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d870bf0e2804d72d4ada788b77395c7d)  ![](/assets/new.png) 
+- [2026-04-24-科技爱好者周刊（第-394-期）：第二次-API-开放浪潮](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d870bf0e2804d72d4ada788b77395c7d)  
 - [2026-04-17-科技爱好者周刊（第-393-期）：脑腐状态](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-393.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9b0110d99961c84881432c06e5d6e835)  
 - [2026-04-10-科技爱好者周刊（第-392-期）：axios-投毒与好莱坞式骗术](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e2ccc12b94e830cb0bfccfa4ea562670)  
 - [2026-04-03-科技爱好者周刊（第-391-期）：AI-的贫富分化](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d84ac0a58d1188959ec6e9608c9b063)  

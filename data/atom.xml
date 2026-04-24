@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-24T01:22:24.142Z</updated>
+    <updated>2026-04-24T04:45:38.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 394 期）：第二次 API 开放浪潮]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html</id>
         <link href="http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html"/>
+        <updated>2026-04-24T00:00:00.000Z</updated>
+        <published>2026-04-24T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【早说】理解力负债——AI生成代码的隐性成本]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278972&amp;idx=1&amp;sn=d9c567e7e40dec0edb822f358173f88d&amp;chksm=bc56db92b015f0b746a7e2dc46b38d21c8ecc970528b211e777358cc0fae17729d1075a2577b&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278972&amp;idx=1&amp;sn=d9c567e7e40dec0edb822f358173f88d&amp;chksm=bc56db92b015f0b746a7e2dc46b38d21c8ecc970528b211e777358cc0fae17729d1075a2577b&amp;scene=0#rd"/>
         <updated>2026-04-24T00:00:00.000Z</updated>
         <published>2026-04-24T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【早说】不用IDE，只用计划文件和语音：所知道的Claude Code全部技巧]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278878&amp;idx=1&amp;sn=6c046dd000e27096fef7277b4f7ab421&amp;chksm=bc764d3f8901646b987291836b932b1ed972a9edad2fbafa85ecf1c766053056dca59c63adf5&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278878&amp;idx=1&amp;sn=6c046dd000e27096fef7277b4f7ab421&amp;chksm=bc764d3f8901646b987291836b932b1ed972a9edad2fbafa85ecf1c766053056dca59c63adf5&amp;scene=0#rd"/>
-        <updated>2026-04-07T00:00:00.000Z</updated>
-        <published>2026-04-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What to know about JavaScript in 2026]]></title>
-        <id>https://javascriptweekly.com/issues/780</id>
-        <link href="https://javascriptweekly.com/issues/780"/>
         <updated>2026-04-07T00:00:00.000Z</updated>
         <published>2026-04-07T00:00:00.000Z</published>
     </entry>

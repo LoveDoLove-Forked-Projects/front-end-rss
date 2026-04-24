@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-24 09:22:46。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-24 12:45:53。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -40,6 +40,7 @@
 
 
 
+- [【前端早读课】【早说】理解力负债——AI生成代码的隐性成本](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278972&idx=1&sn=d9c567e7e40dec0edb822f358173f88d&chksm=bc56db92b015f0b746a7e2dc46b38d21c8ecc970528b211e777358cc0fae17729d1075a2577b&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8f76c0aadf400f9868a248ba88816957)
 - [【风痕·術&思】AI-时代的程序与程序员](https://fenghen.me/posts/2026/04/23/ai-era-programmers/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=127b8fe1c3b079682644bcd71f798f14)
 - [【前端早读课】【第3688期】七大AI策略，终结开发者入职困局](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278958&idx=1&sn=e83a98cabe42a49a6b5874d16c0c9264&chksm=bc34dcd1fd94120322f5d3a3e47db80e77f7730d3878aab2e770a1012e381b1f7c1cbb780e13&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=c160cce98525774ed42d85af3c8f2c7f)
 - [【Nodejs技术栈】Claude-Opus-4.7-正式发布，编程能力大幅提升，创始人已经不看代码过程了！](http://mp.weixin.qq.com/s/q1CPMB5PBRUZqamg37Yrmg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=ad3858468ee9f31d3bd7267f2b7815cf)
@@ -49,7 +50,6 @@
 - [【Nodejs技术栈】凌晨，Claude-和-Cursor-同时宣布：以后不用半夜爬起来看-Sentry-了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523240&idx=1&sn=c92c9e9c0e67dfb37ce9081cf903c296&chksm=e80fd4e6df785df040edc08b5308123c5af019296aa120e54dda5ad474c79684553b8db5013c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=dbb39317a7eae81c9658a378e8ee9ee8)
 - [【前端大全】刚刚，Cursor被扒底裤！Claude-Code套壳实锤，500亿估值全靠Ctrl+H？](http://mp.weixin.qq.com/s/HxMbpBXLEFhSYnW8vwnclw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1cdb7507238231d9b49b21d40c87e44d)
 - [【前端早读课】【早说】命令行才是AI工具的未来](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278926&idx=1&sn=97ebb35375d3f1640fa2fc8b52f51a02&chksm=bc29f0cfeafcfffd7a53a75da1b7907281838576495ae44ee58cedb19d031b3096b16c653ae8&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2a3467f8eeee98d99279861cbda65fa2)
-- [【Nodejs技术栈】76.8K-Star！OpenClaw-迎来最强对手-Hermes-Agent，还内置了一键迁移命令](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523227&idx=1&sn=34bda0d2eef7db056cd9e32161e8851b&chksm=e80fd4d5df785dc3dd55efabe78a1acdfdf56400c91352fc837a9ded5df8455bb2f5125b0d13#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=137dbef021564cfcf1dd785b4e78a86f)
 - [查看更多 >](/details/tags/ai.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -585,6 +585,7 @@
 
 
 - [【阮一峰的网络日志】科技爱好者周刊（第-394-期）：第二次-API-开放浪潮](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d870bf0e2804d72d4ada788b77395c7d)
+- [【前端早读课】【早说】理解力负债——AI生成代码的隐性成本](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278972&idx=1&sn=d9c567e7e40dec0edb822f358173f88d&chksm=bc56db92b015f0b746a7e2dc46b38d21c8ecc970528b211e777358cc0fae17729d1075a2577b&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8f76c0aadf400f9868a248ba88816957)
 - [【风痕·術&思】AI-时代的程序与程序员](https://fenghen.me/posts/2026/04/23/ai-era-programmers/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=127b8fe1c3b079682644bcd71f798f14)
 - [【前端早读课】【第3689期】MDN-新前端的内部机制](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278964&idx=1&sn=2cc25711f66f3c3672c4186db5961a6b&chksm=bccdfe14e5fb3b0057cddabc09ba26d734fa7c610d89a11025e6481a56fee7886a789a6355ac&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=0d8a7eaf5d2b436406c4db2b10fef340)
 - [【Node-Weekly】Playwright's-exciting-new-page.screencast-API](https://nodeweekly.com/issues/621)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=1562b83b6b5ebe53a419c8d6c175244a)
@@ -593,7 +594,6 @@
 - [【程序员成长指北】Node.js-子进程管理：我是如何被-spawn-逼疯的](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529682&idx=1&sn=15b6113a8839043fc830ca03a64aa5f9&chksm=f9927203cee5fb15525ebe95fe3b875c0a455928ed4d3842e8fc795ffaaa8c921824faa7bd55#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=b007aab885bd21d01e4c950cfc6b5f9b)
 - [【程序员成长指北】详解-Node.js-中的子进程](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247529682&idx=2&sn=12b827645f6c31b27ddba4a30cb34266&chksm=f9927203cee5fb159887b3a5f343b1cd9f8af9635d68882f9e7f4e6880ccec5fb6c35e046259#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d475b97651b0a9b37aa2fe38ea4f7fa2)
 - [【前端早读课】【第3687期】看的是错误的-Pretext-演示](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278953&idx=1&sn=0d4534662456020949d4195a8868dde3&chksm=bc5ced95adaab08c816e6e4fdfda4b4a7aa6a4ff057702a07b35494fc3fd5d2a30a851b9a040&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=a5765cca768930c6855adc0b9fe8fd83)
-- [【JavaScript-Weekly】Create-videos-with-HTML-and-JavaScript-via-HyperFrames](https://javascriptweekly.com/issues/782)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=5b4316ae089e1bc335cde9c737bfaf24)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
