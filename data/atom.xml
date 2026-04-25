@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-25T01:15:58.507Z</updated>
+    <updated>2026-04-25T20:26:32.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,6 +29,13 @@
         <published>2026-04-24T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AI时代的金矿：揭秘人工智能如何帮你赚取第一桶金]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517587&amp;idx=1&amp;sn=0d50ffe7d9491e683c9b5680ae574637&amp;chksm=eb07bdeadc7034fc25efae5e7be41c9458fbe40a4c9fafde7049c56b198c03e6256ccba7948a#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517587&amp;idx=1&amp;sn=0d50ffe7d9491e683c9b5680ae574637&amp;chksm=eb07bdeadc7034fc25efae5e7be41c9458fbe40a4c9fafde7049c56b198c03e6256ccba7948a#rd"/>
+        <updated>2026-04-24T00:00:00.000Z</updated>
+        <published>2026-04-24T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【早说】理解力负债——AI生成代码的隐性成本]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278972&amp;idx=1&amp;sn=d9c567e7e40dec0edb822f358173f88d&amp;chksm=bc56db92b015f0b746a7e2dc46b38d21c8ecc970528b211e777358cc0fae17729d1075a2577b&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278972&amp;idx=1&amp;sn=d9c567e7e40dec0edb822f358173f88d&amp;chksm=bc56db92b015f0b746a7e2dc46b38d21c8ecc970528b211e777358cc0fae17729d1075a2577b&amp;scene=0#rd"/>
@@ -46,6 +53,13 @@
         <title type="html"><![CDATA[AI 时代的程序与程序员]]></title>
         <id>https://fenghen.me/posts/2026/04/23/ai-era-programmers/</id>
         <link href="https://fenghen.me/posts/2026/04/23/ai-era-programmers/"/>
+        <updated>2026-04-23T00:00:00.000Z</updated>
+        <published>2026-04-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript 7.0 Beta 来了：基于 Go 重写，快了整整 10 倍！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517581&amp;idx=1&amp;sn=6096958a5670fbc08ba32b1d160fbb9e&amp;chksm=eb07bdf4dc7034e26fde59e081403f0d16a468b7dbd22692ee3133a27c5418599fc41f65fc6f#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517581&amp;idx=1&amp;sn=6096958a5670fbc08ba32b1d160fbb9e&amp;chksm=eb07bdf4dc7034e26fde59e081403f0d16a468b7dbd22692ee3133a27c5418599fc41f65fc6f#rd"/>
         <updated>2026-04-23T00:00:00.000Z</updated>
         <published>2026-04-23T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="https://nodeweekly.com/issues/619"/>
         <updated>2026-04-09T00:00:00.000Z</updated>
         <published>2026-04-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吊打 Opus 4.6！Anthropic 发布史上最强神级模型，强到不敢公开发布]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523193&amp;idx=1&amp;sn=6fe61a5f80fff1277e8d7bce50f911e5&amp;chksm=e80fd437df785d21d9b0a3441e7312275c7e84cdabd8eb5412d9d0b7f24d31142bc70964c357#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523193&amp;idx=1&amp;sn=6fe61a5f80fff1277e8d7bce50f911e5&amp;chksm=e80fd437df785d21d9b0a3441e7312275c7e84cdabd8eb5412d9d0b7f24d31142bc70964c357#rd"/>
-        <updated>2026-04-08T00:00:00.000Z</updated>
-        <published>2026-04-08T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告别“伪智能”代码：用 Spec + RAG 打造真正懂你的AI程序员]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543163&amp;idx=1&amp;sn=ba3f6f1eef51ddf354828fed2aa622c3&amp;chksm=8390dc23b4e75535288e5e3b653f7e97806e3ad67efd9fa7f9640b6a7d802427c0389f949997#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543163&amp;idx=1&amp;sn=ba3f6f1eef51ddf354828fed2aa622c3&amp;chksm=8390dc23b4e75535288e5e3b653f7e97806e3ad67efd9fa7f9640b6a7d802427c0389f949997#rd"/>
-        <updated>2026-04-08T00:00:00.000Z</updated>
-        <published>2026-04-08T00:00:00.000Z</published>
     </entry>
 </feed>
