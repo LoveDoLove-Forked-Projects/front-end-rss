@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-25T20:26:32.944Z</updated>
+    <updated>2026-04-26T16:29:26.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Bun 下一版要支持安卓了！但作者警告：千万别拿它写 App]]></title>
+        <id>http://mp.weixin.qq.com/s/KbiF-UdSvNcW4ZwJXo4OWw</id>
+        <link href="http://mp.weixin.qq.com/s/KbiF-UdSvNcW4ZwJXo4OWw"/>
+        <updated>2026-04-25T00:00:00.000Z</updated>
+        <published>2026-04-25T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-5.5 凌晨发布！Codex 同步大升级，浏览器、Office、电脑三件套一口气拿下]]></title>
+        <id>http://mp.weixin.qq.com/s/A1z1QqGqlwp8Ne6Jv8D9wg</id>
+        <link href="http://mp.weixin.qq.com/s/A1z1QqGqlwp8Ne6Jv8D9wg"/>
+        <updated>2026-04-24T00:00:00.000Z</updated>
+        <published>2026-04-24T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 394 期）：第二次 API 开放浪潮]]></title>
         <id>http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html</id>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[Anthropic 不只卖模型了！Claude Managed Agents 发布，Agent 即服务时代来了]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523200&amp;idx=1&amp;sn=f1b91a6cf2fc13001b47176cd7635a7e&amp;chksm=e80fd4cedf785dd8d6a606d5825e3bbe66efb4bc13d54e6c56ba6e3de259707e8143ca815fb4#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523200&amp;idx=1&amp;sn=f1b91a6cf2fc13001b47176cd7635a7e&amp;chksm=e80fd4cedf785dd8d6a606d5825e3bbe66efb4bc13d54e6c56ba6e3de259707e8143ca815fb4#rd"/>
-        <updated>2026-04-09T00:00:00.000Z</updated>
-        <published>2026-04-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3681期】拆解编程智能体：让大模型真正会写代码的六大核心组件]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278906&amp;idx=1&amp;sn=18fd9ea1df2c13bdf6d8392d01d2f60d&amp;chksm=bcb36108cef8fb4e5e40a93f9e903c9787d9413400b35104b5ecaabef0bef09f1275b9aada63&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278906&amp;idx=1&amp;sn=18fd9ea1df2c13bdf6d8392d01d2f60d&amp;chksm=bcb36108cef8fb4e5e40a93f9e903c9787d9413400b35104b5ecaabef0bef09f1275b9aada63&amp;scene=0#rd"/>
-        <updated>2026-04-09T00:00:00.000Z</updated>
-        <published>2026-04-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Social engineering attacks target high-impact Node.js maintainers]]></title>
-        <id>https://nodeweekly.com/issues/619</id>
-        <link href="https://nodeweekly.com/issues/619"/>
         <updated>2026-04-09T00:00:00.000Z</updated>
         <published>2026-04-09T00:00:00.000Z</published>
     </entry>
