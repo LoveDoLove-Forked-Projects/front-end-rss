@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-27T04:35:30.077Z</updated>
+    <updated>2026-04-27T11:29:18.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[如何使用CSS判断鼠标从哪个方向进入元素？]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/04/css-hover-direction/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/04/css-hover-direction/"/>
+        <updated>2026-04-27T00:00:00.000Z</updated>
+        <published>2026-04-27T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3690期】驾驭 Opus 4.7：Claude Code 最佳实践全攻略]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278978&amp;idx=1&amp;sn=a8351965c5112f4b153ab699d3bbd652&amp;chksm=bcde39b29fcf60c6876b79464f72d46741fc9661802308b63b24d1199e449c0b4dd7aaad768a&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[MIT实锤：AI代码迭代5次，比人类屎山烂2.2倍]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517569&amp;idx=1&amp;sn=aa2ac781d1fda0ba4ff3d97fa6ab84e7&amp;chksm=eb07bdf8dc7034eea31775c77aa6b1ca6449ea8b5b0cfc38659eaead98ecd2a22901214a9f7c#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517569&amp;idx=1&amp;sn=aa2ac781d1fda0ba4ff3d97fa6ab84e7&amp;chksm=eb07bdf8dc7034eea31775c77aa6b1ca6449ea8b5b0cfc38659eaead98ecd2a22901214a9f7c#rd"/>
-        <updated>2026-04-10T00:00:00.000Z</updated>
-        <published>2026-04-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3682期】别让AI替你思考：苏格拉底提示法，把AI变成你的思考搭档]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278911&amp;idx=1&amp;sn=67a81a5373518b0b343ace3ffc8790e8&amp;chksm=bc75ab09a7c6da60183ab9bc7589bec9cadd9efcb09c5ce8826635a8e22d0504faf7aeeef383&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278911&amp;idx=1&amp;sn=67a81a5373518b0b343ace3ffc8790e8&amp;chksm=bc75ab09a7c6da60183ab9bc7589bec9cadd9efcb09c5ce8826635a8e22d0504faf7aeeef383&amp;scene=0#rd"/>
         <updated>2026-04-10T00:00:00.000Z</updated>
         <published>2026-04-10T00:00:00.000Z</published>
     </entry>

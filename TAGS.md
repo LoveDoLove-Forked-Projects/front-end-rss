@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-27 12:35:48。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-27 19:29:34。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -196,6 +196,7 @@
 
 
 
+- [【张鑫旭-鑫空间-鑫生活】如何使用CSS判断鼠标从哪个方向进入元素？](https://www.zhangxinxu.com/wordpress/2026/04/css-hover-direction/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f2c3e2be616f40ed7f6e825154b1f739)
 - [【Nodejs技术栈】Node.js-25.9.0-发布：终于可以用环境变量控制堆内存了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523210&idx=1&sn=9489af7dfb7abef3b1d3303fd599c8e8&chksm=e80fd4c4df785dd2234a2798a82f17e17238a990dce02ea3731683ec34e78aefed196da0067c#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=4bbf8737c0d2b7d5f98c70bfec2423a7)
 - [【张鑫旭-鑫空间-鑫生活】CSS六边形头像的实现与蜂巢布局](https://www.zhangxinxu.com/wordpress/2026/04/css-pyramidal-grid/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=2d8c3aaf3f424b639a6bbbf6c48cff1c)
 - [【Nodejs技术栈】Transformers-V4-最新发布！浏览器也能跑-AI-模型了](http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&mid=2247523174&idx=1&sn=82b09e889c9396fff27872199625bd53&chksm=e80fd428df785d3ef17de4e12dcfe3af28d5f74b08027e45e001f3789e3d458ce19cca1807bb#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=d4299a0ef4e44c51325e89adf451db4d)
@@ -205,7 +206,6 @@
 - [【前端早读课】【第3672期】CSS-迎来原生随机能力：random-与-random-item-初探](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278766&idx=1&sn=f12dfaf066546ca3b50d6cd4d9462fcd&chksm=bcdcdd4b365f2e4cb85cb53e213515970d946d9f9fad8114ec27121d1b4163008ee2aa50a97c&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=3a1da667d87bc95250c84b03b23faaab)
 - [【前端早读课】【第3661期】不用-JS-也能精准定位？CSS-Anchor-Positioning-实战解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278643&idx=1&sn=7161d1df5a6028408bd1968b3c91308c&chksm=bcfb969acf5ac5efdc7dec3205f2962a47dc76cd023f50fe961ac2a391654dcaa7e618a05aa5&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=61471213fef239bbf0b4a395bf72e4d8)
 - [【张鑫旭-鑫空间-鑫生活】CSS-text-box属性又是干嘛用的？](https://www.zhangxinxu.com/wordpress/2026/02/css-text-box/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=10034adbb21fc099e6c8e73efcf6be15)
-- [【前端早读课】【第3654期】不再重置！在-React-/-Next.js-中实现跨页面“持续进化”的动画效果](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278586&idx=1&sn=3cfb81a18bdbbe2a205a4a70f3d3b6ae&chksm=bc10b91f6f40078b03db48e1e4e12d8c0dfec8c89a16dd5d8117705b7d6afb7ac22146c2efe3&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=e8a73a87b97a7c296716fbbe85ae2456)
 - [查看更多 >](/details/tags/css.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
@@ -584,6 +584,7 @@
 
 
 
+- [【张鑫旭-鑫空间-鑫生活】如何使用CSS判断鼠标从哪个方向进入元素？](https://www.zhangxinxu.com/wordpress/2026/04/css-hover-direction/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=f2c3e2be616f40ed7f6e825154b1f739)
 - [【前端早读课】【第3690期】驾驭-Opus-4.7：Claude-Code-最佳实践全攻略](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278978&idx=1&sn=a8351965c5112f4b153ab699d3bbd652&chksm=bcde39b29fcf60c6876b79464f72d46741fc9661802308b63b24d1199e449c0b4dd7aaad768a&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=fbd6a56b0bcf9a9bb6dfed6368d21c2a)
 - [【Nodejs技术栈】Bun-下一版要支持安卓了！但作者警告：千万别拿它写-App](http://mp.weixin.qq.com/s/KbiF-UdSvNcW4ZwJXo4OWw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=9023f5a2bcfd6d3b4a31a2d835665e12)
 - [【Nodejs技术栈】GPT-5.5-凌晨发布！Codex-同步大升级，浏览器、Office、电脑三件套一口气拿下](http://mp.weixin.qq.com/s/A1z1QqGqlwp8Ne6Jv8D9wg)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=03e4ead30b6ea53e6261c5917a1e460c)
@@ -593,7 +594,6 @@
 - [【前端大全】取代前端岗，又一新兴岗位在崛起！这才是前端未来5年最好的就业方向！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651624391&idx=1&sn=627728a6d23367ed85eb66e0ad8f008c&chksm=80224406b755cd106addea2a34ae09d7a38722e6b1b590fefcd1c04ae170016fd5565b1790e2#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=25706f48b693a3454b8c241481008f7d)
 - [【前端早读课】【早说】理解力负债——AI生成代码的隐性成本](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651278972&idx=1&sn=d9c567e7e40dec0edb822f358173f88d&chksm=bc56db92b015f0b746a7e2dc46b38d21c8ecc970528b211e777358cc0fae17729d1075a2577b&scene=0#rd)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8f76c0aadf400f9868a248ba88816957)
 - [【Nodejs技术栈】马斯克-600-亿买-Cursor，真正想要的根本不是这个编辑器](http://mp.weixin.qq.com/s/Usiiw3oQ6NjeLKpBYc3luw)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=8e92445030fb65fd2fdfdbd39605d7d0)
-- [【风痕·術&思】AI-时代的程序与程序员](https://fenghen.me/posts/2026/04/23/ai-era-programmers/)&nbsp;&nbsp;[📖](https://fed.chanceyu.com?id=127b8fe1c3b079682644bcd71f798f14)
 - [查看更多 >](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
