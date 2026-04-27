@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-26T16:29:26.224Z</updated>
+    <updated>2026-04-27T04:35:30.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3690期】驾驭 Opus 4.7：Claude Code 最佳实践全攻略]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278978&amp;idx=1&amp;sn=a8351965c5112f4b153ab699d3bbd652&amp;chksm=bcde39b29fcf60c6876b79464f72d46741fc9661802308b63b24d1199e449c0b4dd7aaad768a&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278978&amp;idx=1&amp;sn=a8351965c5112f4b153ab699d3bbd652&amp;chksm=bcde39b29fcf60c6876b79464f72d46741fc9661802308b63b24d1199e449c0b4dd7aaad768a&amp;scene=0#rd"/>
+        <updated>2026-04-27T00:00:00.000Z</updated>
+        <published>2026-04-27T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bun 下一版要支持安卓了！但作者警告：千万别拿它写 App]]></title>
         <id>http://mp.weixin.qq.com/s/KbiF-UdSvNcW4ZwJXo4OWw</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278911&amp;idx=1&amp;sn=67a81a5373518b0b343ace3ffc8790e8&amp;chksm=bc75ab09a7c6da60183ab9bc7589bec9cadd9efcb09c5ce8826635a8e22d0504faf7aeeef383&amp;scene=0#rd"/>
         <updated>2026-04-10T00:00:00.000Z</updated>
         <published>2026-04-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic 不只卖模型了！Claude Managed Agents 发布，Agent 即服务时代来了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523200&amp;idx=1&amp;sn=f1b91a6cf2fc13001b47176cd7635a7e&amp;chksm=e80fd4cedf785dd8d6a606d5825e3bbe66efb4bc13d54e6c56ba6e3de259707e8143ca815fb4#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyNDU2NTc5Mw==&amp;mid=2247523200&amp;idx=1&amp;sn=f1b91a6cf2fc13001b47176cd7635a7e&amp;chksm=e80fd4cedf785dd8d6a606d5825e3bbe66efb4bc13d54e6c56ba6e3de259707e8143ca815fb4#rd"/>
-        <updated>2026-04-09T00:00:00.000Z</updated>
-        <published>2026-04-09T00:00:00.000Z</published>
     </entry>
 </feed>
