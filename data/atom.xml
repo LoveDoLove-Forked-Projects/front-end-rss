@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-04-27T11:29:18.877Z</updated>
+    <updated>2026-04-28T05:20:10.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【早说】生成式 AI 在前端领域的局限性探讨]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278991&amp;idx=1&amp;sn=8244b5a531876446796be3fb2d1119fe&amp;chksm=bc59ad6acd4f790aae8f84c35bf02aaade4edaeda4abcca12a9744bc9cde41a6d00e41f79b9f&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651278991&amp;idx=1&amp;sn=8244b5a531876446796be3fb2d1119fe&amp;chksm=bc59ad6acd4f790aae8f84c35bf02aaade4edaeda4abcca12a9744bc9cde41a6d00e41f79b9f&amp;scene=0#rd"/>
+        <updated>2026-04-28T00:00:00.000Z</updated>
+        <published>2026-04-28T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何使用CSS判断鼠标从哪个方向进入元素？]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/04/css-hover-direction/</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[AI 答疑助手优化实践：从 RAG 到 LightRAG 的全链路升级]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543171&amp;idx=1&amp;sn=792d48c6fcb2a43c05ef886cd2cf71cd&amp;chksm=8390dc5bb4e7554d8134f191ce27f1914cf36ffe0e72a50794df47761b5bc7ca2b42bf65112d#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650543171&amp;idx=1&amp;sn=792d48c6fcb2a43c05ef886cd2cf71cd&amp;chksm=8390dc5bb4e7554d8134f191ce27f1914cf36ffe0e72a50794df47761b5bc7ca2b42bf65112d#rd"/>
-        <updated>2026-04-10T00:00:00.000Z</updated>
-        <published>2026-04-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MIT实锤：AI代码迭代5次，比人类屎山烂2.2倍]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517569&amp;idx=1&amp;sn=aa2ac781d1fda0ba4ff3d97fa6ab84e7&amp;chksm=eb07bdf8dc7034eea31775c77aa6b1ca6449ea8b5b0cfc38659eaead98ecd2a22901214a9f7c#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517569&amp;idx=1&amp;sn=aa2ac781d1fda0ba4ff3d97fa6ab84e7&amp;chksm=eb07bdf8dc7034eea31775c77aa6b1ca6449ea8b5b0cfc38659eaead98ecd2a22901214a9f7c#rd"/>
         <updated>2026-04-10T00:00:00.000Z</updated>
         <published>2026-04-10T00:00:00.000Z</published>
     </entry>
